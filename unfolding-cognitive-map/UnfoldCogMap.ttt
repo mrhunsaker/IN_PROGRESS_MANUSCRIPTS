@@ -1,0 +1,50 @@
+\begin{longtable}
+{p{6cm}p{4cm}p{6cm}}
+\caption{Selected example disconnection studies used to elucidate the function of neural networks underlying processing within the spatial attribute}\label{tab1} \\
+\hline
+Study & Brain Areas & Behavioral Task \\
+\hline
+\\
+\endfirsthead
+%
+\multicolumn{3}{r}{-- continued from previous page} \\
+\hline
+Study & Brain Areas & Behavioral Task \\
+\hline
+\\
+\endhead
+%
+\hline \multicolumn{3}{r}{{Continued on next page}} \\
+\hline
+\endfoot
+%
+\hline
+\endlastfoot
+\cite{jo2010disconnection} & Hippocampus, \newline Perirhinal cortex & Object-placed paired association\\
+\cite{vann2011selective} & Hippocampus, \newline Mammillary bodies &Water Maze, \newline T-Maze, \newline Radial arm maze\\
+\cite{churchwell2010prefrontal} & Agranular insula, Prelimbic-Infralimbic, \newline CA1 & Modified Hebb-Williams maze\\
+\cite{dumont2010fornix} & Hippocampus, \newline Anterior thalamus, \newline Retrosplenial cortex & Object-context association\\
+\cite{wang2008reversible} & Prelimbic-Infralimbic, \newline Hippocampus&Water Maze, \newline Passive avoidance\\
+\cite{wang2006disconnection} & Prelimbic-Infralimbic, \newline Hippocampus & Delayed spatial alternation\\
+\cite{Rogers2007a} & Posterior parietal cortex, \newline Hippocampus & Object-place paired association, \newline Cheeseboard, \newline Spatial and nonspatial novelty detection\\
+\cite{jerman2006disconnection} & dDG, \newline dCA3 & Modified Hebb-Williams maze\\
+\cite{parron2006cooperation} & Hippocampus, \newline Entorhinal cortex & Water Maze, \newline Spatial and nonspatial object recognition\\
+\cite{Lee2003} & PL-IL, \newline Hippocampus & Delay nonmatch to place on radial arm maze\\
+\cite{Warburton2001a} & Anterior thalamus, \newline Hippocampus & Water Maze, \newline T maze, Radial arm maze\\
+\cite{Warburton2000a} &Anterior thalamus, \newline Hippocampus & Water Maze, \newline T Maze, \newline Radial arm maze, \newline Object Recognition, \newline Spatial location recognition\\
+\cite{warburton1999does} & Anterior thalamus, \newline Hippocampus & Water maze\\
+\cite{neave1997evidence} & Cingulate cortex, \newline Hippocampus, \newline Mammillary Bodies & Delayed forced alternation, \newline Plus maze, \newline Radial arm maze, \\
+\cite{burcham1997disconnection} & Medial agranular cortex (AGm) \newline Posterior parietal cortex (PPC) & Multimodal neglect\\
+\cite{warburton1998differential} & Anterior thalamus \newline Fornix & Water maze \\
+\cite{henry2004spatial} & Anterior thalamus \newline Hippocampus & spatial-visual conditional associative task \newline Delayed forced alternation\\
+\cite{barker2007recognition} & Medial prefrontal cortex \newline Perirhinal cortex & Object in place task \newline Object location\\
+\cite{ito2008functional} & Nucleus accumbens (NAc) \newline Hippocampus & Appetitive spatial context conditioning \\
+\cite{vann2011selective} & Hippocampus \newline Mammillary bodies \newline Anterior Thalamus & Water maze \newline T maze \newline Radial arm maze\\
+\cite{chao2016medial} & Lateral Entorhinal Cortex \newline Medial prefrontal cortex & What-when-where task\\
+\cite{nelson2016importance} & Mammillary bodies \newline Anterior thalamus & Multiple item scene discrimination\\
+\cite{chao2017interaction} & Medial prefrontal cortex \newline CA1 & what-when-where task\\
+\cite{heimer2017disconnection} & Perirhinal cortex \newline Postrhinal cortex & Object in context recognition \newline Contextual fear conditioning \\
+\hline
+\end{longtable}
+\efloatseparator
+ 

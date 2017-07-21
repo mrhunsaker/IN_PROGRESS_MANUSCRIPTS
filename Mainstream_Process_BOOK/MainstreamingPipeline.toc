@@ -1,0 +1,387 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{viii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{viii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Prologue}{ix}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {I}Motivation}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}My Background}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}My Background}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}My Background}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}Tragic Moment of Clarity}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Tragic Moment of Clarity}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Tragic Moment of Clarity}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}Kyle's Legacy}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {4}Harmful Labels}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {II}Identifying the Problem}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {5}Special Ed and MTSS}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Special Ed and MTSS}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The following are necessary components of MTSS:}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{These are the three "Tiers" in MTSS:}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Special Ed and MTSS}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Special Ed and MTSS}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Special Ed and MTSS}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {6}Leaving them Behind}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {III}Developing a Solution}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {7}Decision Tree}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {8}Neuropsychological Measures}{41}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Neuropsychological Measures}{42}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Neuropsychological Measures}{42}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.3}Neuropsychological Measures}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.4}Neuropsychological Measures}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.5}Neuropsychological Measures}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {IV}Implementing the Solution}{49}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {9}Mainstreaming Pipeline}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Pipeline}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}Pipeline}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}Pipeline}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Pipeline}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Pipeline}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Pipeline}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Pipeline}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Pipeline}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.4}Pipeline}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.5}Pipeline}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.6}Pipeline}{55}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.7}Pipeline}{55}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {10}Behavioral Decision Tree}{57}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {V}Behavioral Considerations}{61}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {11}Insights...}{63}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.1}Insights...}{63}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.2}Insights...}{65}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.3}Insights...}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.4}Insights...}{67}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.5}Insights...}{68}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {12}Self Management}{71}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.1}Self Management}{71}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.2}Self Management}{73}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.3}Self Management}{73}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.4}Self Management}{74}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.5}Self Management}{74}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Behavioral Self Reflection Sheet}{74}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Daily Behavior Rating Report and Behavioral Chart}{75}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Good Job Chart and Token Chart}{75}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Response to Intervention Monitoring Graphs}{76}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Weekly Log and Monthly Task Calendar}{77}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.6}Self Management}{77}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.7}Self Management}{79}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {13}Monitoring Self Management}{81}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.1}Monitoring Self Management}{81}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.2}Monitoring Self Management}{82}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.3}Monitoring Self Management}{82}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Continuous Recording}{83}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Frequency / Event Recording}{83}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Rate Recording}{83}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Duration Recording}{83}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Latency Recording}{84}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Per Opportunity Recording}{84}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Interval Recording}{84}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Whole Interval Recording}{84}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Partial Interval Recording}{84}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Momentary Time Sample Recording}{85}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.4}Monitoring Self Management}{85}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Interval Recording}{85}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Inclusion}{86}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Procrastination Data Sheet}{87}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.5}Monitoring Self Management}{88}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {14}Why Manage Behavior}{89}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.1}Why Manage Behavior}{90}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.2}Why Manage Behavior}{90}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.3}Why Manage Behavior}{93}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.4}Why Manage Behavior}{95}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.5}Why Manage Behavior}{96}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14.6}Why Manage Behavior}{98}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {15}My Classroom Management Evolution}{99}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.1}My Classroom Management Evolution}{99}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.2}My Classroom Management Evolution}{103}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15.3}My Classroom Management Evolution}{104}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {16}Beyond Escape and Attention}{107}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.1}Beyond Escape and Attention}{107}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.2}Beyond Escape and Attention}{109}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.3}Beyond Escape and Attention}{111}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16.4}Beyond Escape and Attention}{112}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {17}CPS Model}{113}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.1}Collaborative and Proactive Solutions}{114}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.2}Collaborative and Proactive Solutions}{114}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.3}Collaborative and Proactive Solutions}{115}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.4}Collaborative and Proactive Solutions}{116}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.5}Collaborative and Proactive Solutions}{116}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.6}Collaborative and Proactive Solutions}{118}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.7}Collaborative and Proactive Solutions}{119}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.8}Collaborative and Proactive Solutions}{120}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.9}Collaborative and Proactive Solutions}{121}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.10}Collaborative and Proactive Solutions}{121}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17.11}Collaborative and Proactive Solutions}{122}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {18}Rethinking PBIS}{125}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.1}Rethinking PBIS}{125}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.2}Rethinking PBIS}{126}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.3}Rethinking PBIS}{127}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.4}Rethinking PBIS}{128}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.5}Rethinking PBIS}{129}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.6}Rethinking PBIS}{131}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.7}Rethinking PBIS}{132}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.8}Rethinking PBIS}{133}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18.9}Rethinking PBIS}{134}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {19}Inconsequential Consequences}{135}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19.1}Inconsequential Consequences}{136}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19.2}Inconsequential Consequences}{137}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19.3}Inconsequential Consequences}{138}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19.4}Inconsequential Consequences}{140}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19.5}Inconsequential Consequences}{141}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19.6}Inconsequential Consequences}{143}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {VI}Assistive Technology Considerations}{145}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {20}Communication}{147}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {20.1}Communication}{147}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {20.2}Communication}{149}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {20.3}Communication}{150}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {21}Handwriting}{153}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {21.1}The Problem with Penmanship}{153}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {21.2}Handwriting}{154}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {21.3}Handwriting AT}{155}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {22}Mobility}{157}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {23}UDL}{159}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {VII}Social and Emotional Learning Considerations}{161}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {24}Don't Dictate Emotions}{163}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {24.1}Don't Dictate Emotions}{163}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {24.2}Don't Dictate Emotions}{164}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {24.3}Don't Dictate Emotions}{166}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {24.4}Don't Dictate Emotions}{167}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {25}Grades are Stressful}{169}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.1}Grades are Stressful}{170}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.2}Grades are Stressful}{171}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.3}Grades are Stressful}{171}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.4}Grades are Stressful}{173}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {26}Social Skills}{175}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {27}Nonacademic Inclusion}{177}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {28}Support}{179}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {VIII}Academic Considerations}{181}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {29}High Academic Expectations}{183}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {29.1}High Academic Expectations}{184}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {29.2}High Academic Expectations}{185}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {29.3}High Academic Expectations}{187}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {30}Academic Skills}{189}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {31}Fluency or Comprehension}{191}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {32}Assessments}{193}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {33}Progress Monitoring}{195}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {34}Standarized Tests}{197}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {IX}Results of the Solution}{199}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {35}Mainstreaming Results}{201}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {36}Overall Results - Year 1}{203}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {37}Specific Results - Year 1}{205}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {37.1}Specific Results - Year 1}{205}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {37.2}Specific Results - Year 1}{205}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {37.3}Specific Results - Year 1}{206}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {37.4}Specific Results - Year 1}{206}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {37.5}Specific Results - Year 1}{206}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {38}Overall Results - Year 2}{209}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {39}Specific Results - Year 2}{211}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {39.1}Specific Results - Year 2}{211}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {39.2}Specific Results - Year 2}{211}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {39.3}Specific Results - Year 2}{211}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {39.4}Specific Results - Year 2}{211}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {39.5}Specific Results - Year 2}{211}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {39.6}Specific Results - Year 2}{212}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {39.7}Specific Results - Year 2}{212}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\partnumberline {X}Future Directions}{217}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {40}Implications}{219}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {40.1}Limitations}{220}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {41}Next Steps}{221}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Appendix}{222}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {A}Mainstream Decision Tree}{223}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {B}Behavioral Mainstream Decision Tree}{225}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {C}Mainstream Data Sheet}{227}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {D}Classroom Ecological Inventory (K-6)}{231}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {E}Behavioral First Aid Kit}{237}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Notes and Bioliography}{295}

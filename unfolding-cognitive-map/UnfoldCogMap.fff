@@ -1,0 +1,36 @@
+\begin{figure*}[htp!]
+\includegraphics[width=.99\textwidth]{FIGURE1.jpg}
+\begin{singlespace}
+\caption{\textit{Neural networks involved in processing the Spatial Attribute within the Event-Based Memory System, the Knowledge-Based Memory System, and Rule-Based Memory System. Particular attention should be paid to the interactive nature of these neural networks for spatial processing. These interactions are possible given the rich anatomical connectivity among these brain regions.}}
+\label{fig1}
+\end{singlespace}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[htp!]
+\includegraphics[width=.99\textwidth]{NAIVEHIPPOCAMPUS.png}
+\begin{singlespace}
+\caption{\textit{Diagram of the simplified trisynaptic loop often used in simulations of hippocampus function. This is a convenint simplification for hypothesis testing, but the reality of hippocampus wiring is much more complex.}}
+\label{fig2}
+\end{singlespace}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[htp!]
+\includegraphics[width=.99\textwidth]{FIGURE2.png}
+\begin{singlespace}
+\caption{\textit{Hippocampal circuitry}}
+\label{fig3}
+\end{singlespace}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[htp!]
+\includegraphics[width=.85\textwidth]{Complicated.png}
+\begin{singlespace}
+\caption{\textit{Model of spatial processing by interacting memory systems. (A) Depicts an environment in which a rat is placed to explore in a spatial memory task \parencite{Goodrich-Hunsaker2005a, goodrich2008interactions}. (B) Depicts the neural computations carried out by the event-based memory system with particular focus on the contributions from the hippocampus. Spatial relationships among stimuli are defined mathematically in terms of raw angles and distanced from the rat. (C) Depicts the neural computations undertaken by the knowledge-based memory system, particular the posterior parietal cortex. Spatial relationships are defined by only the most general geometric relationships (i.e., geometric shape defined by the elements-connectedness and neighbourhood), but without regard to the vantage of the rat for this processing or specific regard to which object is located at which node. (D) depicts the processing by the rule-based memory system, particularly the infralimbic/prelimbic cortices. The rule-based memory system used affective information to guide exploratory behaviour and decisions undertaken by the rat. Importantly, the rule-based memory system can switch between the event- and knowledge-based memory systems as needed to guide behavioural performance. (E) depicts an active interaction among the three memory systems, focusing on the proposed role for the retrosplenial cortex. The retrosplenial cortex, having access to raw data from the thalamus, as well as the three memory systems, can perform computations in concert with the rule based memory system, as well as independently, and then signal that update to the rule-based memory system. Importantly, the retrosplenial cortex simplifies the spatial inputs to those relevant to guide task performance; this process provides a mechanism whereby an animal may compute egocentric position within an allocentric frame as proposed by other authors. Figure modified from \textcite{Hunsaker2013c} }}
+\label{fig4}
+\end{singlespace}
+\end{figure*}
+\efloatseparator
+ 

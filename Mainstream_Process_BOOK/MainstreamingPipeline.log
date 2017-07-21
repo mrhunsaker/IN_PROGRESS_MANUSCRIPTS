@@ -1,0 +1,3119 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 JUL 2017 11:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MainstreamingPipeline.tex
+(./MainstreamingPipeline.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+
+(/usr/local/texlive/2017/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count81
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count96
+\c@chrsinstr=\count97
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count98
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count99
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count108
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count109
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7551.
+LaTeX Info: Redefining \emph on input line 7559.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count110
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count111
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count112
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count113
+\c@pagenoteshadow=\count114
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count115
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count116
+\c@bvlinectr=\count117
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count118
+LaTeX Info: Redefining \: on input line 12068.
+LaTeX Info: Redefining \! on input line 12070.
+\c@ism@mctr=\count119
+\c@xsm@mctr=\count120
+\c@csm@mctr=\count121
+\c@ksm@mctr=\count122
+\c@xksm@mctr=\count123
+\c@cksm@mctr=\count124
+\c@msm@mctr=\count125
+\c@xmsm@mctr=\count126
+\c@cmsm@mctr=\count127
+\c@bsm@mctr=\count128
+\c@workm@mctr=\count129
+\c@sheetsequence=\count130
+\c@lastsheet=\count131
+\c@lastpage=\count132
+\c@figure=\count133
+\c@lofdepth=\count134
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count135
+\c@lotdepth=\count136
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/american.ldf
+Language: american 2017/01/24 v3.3q English support from the babel system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count137
+\U@D=\dimen147
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/american.ldf
+Language: american 2017/01/24 v3.3q English support from the babel system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count138
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count139
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count140
+\decimalpart=\count141
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count142
+\c@listtotal=\count143
+\c@listcount=\count144
+\c@liststart=\count145
+\c@liststop=\count146
+\c@citecount=\count147
+\c@citetotal=\count148
+\c@multicitecount=\count149
+\c@multicitetotal=\count150
+\c@instcount=\count151
+\c@maxnames=\count152
+\c@minnames=\count153
+\c@maxitems=\count154
+\c@minitems=\count155
+\c@citecounter=\count156
+\c@savedcitecounter=\count157
+\c@uniquelist=\count158
+\c@uniquename=\count159
+\c@refsection=\count160
+\c@refsegment=\count161
+\c@maxextratitle=\count162
+\c@maxextratitleyear=\count163
+\c@maxextrayear=\count164
+\c@maxextraalpha=\count165
+\c@abbrvpenalty=\count166
+\c@highnamepenalty=\count167
+\c@lownamepenalty=\count168
+\c@maxparens=\count169
+\c@parenlevel=\count170
+\blx@tempcnta=\count171
+\blx@tempcntb=\count172
+\blx@tempcntc=\count173
+\blx@maxsection=\count174
+\blx@maxsegment@0=\count175
+\blx@notetype=\count176
+\blx@parenlevel@text=\count177
+\blx@parenlevel@foot=\count178
+\blx@sectionciteorder@0=\count179
+\labelnumberwidth=\skip185
+\labelalphawidth=\skip186
+\biblabelsep=\skip187
+\bibnamesep=\skip188
+\bibinitsep=\skip189
+\bibparsep=\skip190
+\bibhang=\skip191
+\blx@bcfin=\read2
+\blx@bcfout=\write5
+\c@mincomprange=\count180
+\c@maxcomprange=\count181
+\c@mincompwidth=\count182
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authortitle-ibid.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count183
+\c@savedafterword=\count184
+\c@annotator=\count185
+\c@savedannotator=\count186
+\c@author=\count187
+\c@savedauthor=\count188
+\c@bookauthor=\count189
+\c@savedbookauthor=\count190
+\c@commentator=\count191
+\c@savedcommentator=\count192
+\c@editor=\count193
+\c@savededitor=\count194
+\c@editora=\count266
+\c@savededitora=\count267
+\c@editorb=\count268
+\c@savededitorb=\count269
+\c@editorc=\count270
+\c@savededitorc=\count271
+\c@foreword=\count272
+\c@savedforeword=\count273
+\c@holder=\count274
+\c@savedholder=\count275
+\c@introduction=\count276
+\c@savedintroduction=\count277
+\c@namea=\count278
+\c@savednamea=\count279
+\c@nameb=\count280
+\c@savednameb=\count281
+\c@namec=\count282
+\c@savednamec=\count283
+\c@translator=\count284
+\c@savedtranslator=\count285
+\c@shortauthor=\count286
+\c@savedshortauthor=\count287
+\c@shorteditor=\count288
+\c@savedshorteditor=\count289
+\c@labelname=\count290
+\c@savedlabelname=\count291
+\c@institution=\count292
+\c@savedinstitution=\count293
+\c@lista=\count294
+\c@savedlista=\count295
+\c@listb=\count296
+\c@savedlistb=\count297
+\c@listc=\count298
+\c@savedlistc=\count299
+\c@listd=\count300
+\c@savedlistd=\count301
+\c@liste=\count302
+\c@savedliste=\count303
+\c@listf=\count304
+\c@savedlistf=\count305
+\c@location=\count306
+\c@savedlocation=\count307
+\c@organization=\count308
+\c@savedorganization=\count309
+\c@origlocation=\count310
+\c@savedoriglocation=\count311
+\c@origpublisher=\count312
+\c@savedorigpublisher=\count313
+\c@publisher=\count314
+\c@savedpublisher=\count315
+\c@language=\count316
+\c@savedlanguage=\count317
+\c@pageref=\count318
+\c@savedpageref=\count319
+\shorthandwidth=\skip192
+\shortjournalwidth=\skip193
+\shortserieswidth=\skip194
+\shorttitlewidth=\skip256
+\shortauthorwidth=\skip257
+\shorteditorwidth=\skip258
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count320
+\c@textcitetotal=\count321
+\c@textcitemaxnames=\count322
+\c@biburlnumpenalty=\count323
+\c@biburlucpenalty=\count324
+\c@biburllcpenalty=\count325
+\c@smartand=\count326
+)
+Package biblatex Info: Trying to load bibliography style 'authortitle-ibid'...
+Package biblatex Info: ... file 'authortitle-ibid.bbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/authortitle-ibid.bbx
+File: authortitle-ibid.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/A
+B)
+Package biblatex Info: Trying to load bibliography style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.bbx' found.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+File: authortitle.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count327
+\c@bbx:relatedtotal=\count328
+)))
+Package biblatex Info: Trying to load citation style 'authortitle-ibid'...
+Package biblatex Info: ... file 'authortitle-ibid.cbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/authortitle-ibid.cbx
+File: authortitle-ibid.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+
+
+Package etex Warning: Extended allocation already in use.
+(etex)                etex.sty code will not be used.
+(etex)                To force etex package to load, add
+(etex)                \RequirePackage{etex}
+(etex)                at the start of the document.
+
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count329
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+\c@r@tfl@t=\count330
+\rotFPtop=\skip259
+\rotFPbot=\skip260
+\rot@float@box=\box29
+\rot@mess@toks=\toks23
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count331
+\float@exts=\toks24
+\float@box=\box30
+\@float@everytoks=\toks25
+\@floatcapt=\box31
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks26
+\AP@partial=\box32
+\AP@footins=\box33
+)
+
+Class memoir Warning: You are using the caption package with the memoir class. 
+To prepare we will now reset all captioning macros and configurations to kernel
+ defaults, and then let the caption package take over. Please remember to use
+ the caption package interfaces in order to
+ configure your captions.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+)
+\c@ContinuedFloat=\count332
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count333
+\c@Blindtext=\count334
+\c@blind@countparstart=\count335
+\blind@countxx=\count336
+\blindtext@numBlindtext=\count337
+\blind@countyy=\count338
+\c@blindlist=\count339
+\c@blindlistlevel=\count340
+\c@blindlist@level=\count341
+\blind@listitem=\count342
+\c@blind@listcount=\count343
+\c@blind@levelcount=\count344
+\blind@mathformula=\count345
+\blind@Mathformula=\count346
+\c@blind@randomcount=\count347
+\c@blind@randommax=\count348
+\c@blind@pangramcount=\count349
+\c@blind@pangrammax=\count350
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count351
+\calc@Bcount=\count352
+\calc@Adimen=\dimen157
+\calc@Bdimen=\dimen158
+\calc@Askip=\skip261
+\calc@Bskip=\skip262
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count353
+\calc@Cskip=\skip263
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen159
+\AM@pageheight=\dimen160
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box34
+\AM@global@opts=\toks27
+\AM@toc@title=\toks28
+\c@AM@survey=\count354
+\AM@templatesizebox=\box35
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2017/03/11 v5.2b context-sensitive quotations (JAW)
+\csq@reset=\count355
+\csq@gtype=\count356
+\csq@glevel=\count357
+\csq@qlevel=\count358
+\csq@maxlvl=\count359
+\csq@tshold=\count360
+\csq@ltx@everypar=\toks29
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2017/03/11 v5.2b csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/bookman.sty
+Package: bookman 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/endnotes/endnotes.sty
+\c@endnote=\count361
+\endnotesep=\dimen161
+\@enotes=\write6
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip264
+\LTright=\skip265
+\LTpre=\skip266
+\LTpost=\skip267
+\LTchunksize=\count362
+\LTcapwidth=\dimen162
+\LT@head=\box36
+\LT@firsthead=\box37
+\LT@foot=\box38
+\LT@lastfoot=\box39
+\LT@cols=\count363
+\LT@rows=\count364
+\c@LT@tables=\count365
+\c@LT@chunks=\count366
+\LT@p@ftn=\toks30
+)
+\mylength=\skip268
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count367
+\Gm@cntv=\count368
+\c@Gm@tempcnt=\count369
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks31
+)
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 113.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 113.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+
+(./MainstreamingPipeline.aux)
+\openout1 = `MainstreamingPipeline.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Try loading font information for OT1+pbk on input line 116.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pbk.fd
+File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
+)
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <12> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 116.
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+\openout5 = `MainstreamingPipeline.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'MainstreamingPipeline.bbl' found.
+
+(./MainstreamingPipeline.bbl)
+Package biblatex Info: Reference section=0 on input line 116.
+Package biblatex Info: Reference segment=0 on input line 116.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count370
+\scratchdimen=\dimen171
+\scratchbox=\box40
+\nofMPsegments=\count371
+\nofMParguments=\count372
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count373
+\MPscratchDim=\dimen172
+\MPnumerator=\count374
+\makeMPintoPDFobject=\count375
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box41
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=1.44614pt
+* \evensidemargin=38.30426pt
+* \topmargin=-11.24641pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=102.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `OT1/pbk/m/sl' in size <12> not available
+(Font)              Font shape `OT1/pbk/l/sl' tried instead on input line 118.
+[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+[2
+
+]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 120--122
+[] []
+ []
+
+[3
+
+]
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <24.88> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 125.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <24.88> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 125.
+ (./MainstreamingPipeline.toc
+LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <12> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+
+Overfull \hbox (1.55984pt too wide) detected at line 5
+ \OT1/pbk/db/n/12 viii
+ []
+
+
+Overfull \hbox (1.55984pt too wide) detected at line 7
+ \OT1/pbk/db/n/12 viii
+ []
+
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+[4
+
+]
+Overfull \hbox (5.15987pt too wide) detected at line 193
+ \OT1/pbk/db/n/12 107
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 203
+ \OT1/pbk/db/n/12 113
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 227
+ \OT1/pbk/db/n/12 125
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 247
+ \OT1/pbk/db/n/12 135
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 263
+ \OT1/pbk/db/n/12 147
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 271
+ \OT1/pbk/db/n/12 153
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 279
+ \OT1/pbk/db/n/12 157
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 281
+ \OT1/pbk/db/n/12 159
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 285
+ \OT1/pbk/db/n/12 163
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 295
+ \OT1/pbk/db/n/12 169
+ []
+
+[5]
+Overfull \hbox (5.15987pt too wide) detected at line 305
+ \OT1/pbk/db/n/12 175
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 307
+ \OT1/pbk/db/n/12 177
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 309
+ \OT1/pbk/db/n/12 179
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 313
+ \OT1/pbk/db/n/12 183
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 321
+ \OT1/pbk/db/n/12 189
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 323
+ \OT1/pbk/db/n/12 191
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 325
+ \OT1/pbk/db/n/12 193
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 327
+ \OT1/pbk/db/n/12 195
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 329
+ \OT1/pbk/db/n/12 197
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 333
+ \OT1/pbk/db/n/12 201
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 335
+ \OT1/pbk/db/n/12 203
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 337
+ \OT1/pbk/db/n/12 205
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 349
+ \OT1/pbk/db/n/12 209
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 351
+ \OT1/pbk/db/n/12 211
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 369
+ \OT1/pbk/db/n/12 219
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 373
+ \OT1/pbk/db/n/12 221
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 377
+ \OT1/pbk/db/n/12 223
+ []
+
+[6]
+Overfull \hbox (5.15987pt too wide) detected at line 379
+ \OT1/pbk/db/n/12 225
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 381
+ \OT1/pbk/db/n/12 227
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 383
+ \OT1/pbk/db/n/12 231
+ []
+
+
+Overfull \hbox (5.15987pt too wide) detected at line 385
+ \OT1/pbk/db/n/12 237
+ []
+
+) [7] (./MainstreamingPipeline.lof) (./MainstreamingPipeline.lot
+LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <12> not available
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 25.
+
+Overfull \hbox (3.71979pt too wide) detected at line 87
+ \OT1/pbk/l/n/12 207
+ []
+
+
+Overfull \hbox (3.71979pt too wide) detected at line 93
+ \OT1/pbk/l/n/12 213
+ []
+
+) [8
+
+]
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <8> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 136.
+\openout6 = `MainstreamingPipeline.ent'.
+
+ [9
+
+
+] [10] [11] [12
+
+] [1
+
+] [2]
+LaTeX Font Info:    Font shape `OT1/pbk/bx/it' in size <12> not available
+(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 171.
+LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <12> not available
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 171.
+
+ [3
+
+] [4]
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <17.28> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 181.
+LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 181.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <17.28> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 181.
+ [5] [6] [7] [8
+
+
+] [9] [10] [11] [12
+
+
+]
+[13] [14] [15] [16] [17
+
+] [18] [19] [20
+
+
+] [21] [22] [23
+
+] [24] [25] [26] [27]
+[28] [29] [30
+
+] [31] [32] [33] [34
+
+
+] [35] [36] [37
+
+]
+<Figure1.pdf, id=168, 794.67299pt x 596.83842pt>
+File: Figure1.pdf Graphic file (type pdf)
+ <use Figure1.pdf>
+Package pdftex.def Info: Figure1.pdf used on input line 475.
+(pdftex.def)             Requested size: 430.00462pt x 322.95276pt.
+ [38]
+[39 <./Figure1.pdf>] [40
+
+
+] [41] [42] [43]
+<Yerkes-Dodson.pdf, id=416, 794.97pt x 614.295pt>
+File: Yerkes-Dodson.pdf Graphic file (type pdf)
+ <use Yerkes-Dodson.pdf>
+Package pdftex.def Info: Yerkes-Dodson.pdf used on input line 530.
+(pdftex.def)             Requested size: 430.00462pt x 332.28613pt.
+LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <8> not available
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 531.
+LaTeX Font Info:    Try loading font information for OML+pbk on input line 531.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlpbk.fd
+File: omlpbk.fd 
+)
+LaTeX Font Info:    Font shape `OML/pbk/m/it' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 531.
+ [44] [45 <./Yerkes-Dodson.pdf, page is rotated 270 degrees>]
+LaTeX Font Info:    Font shape `OML/pbk/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 655.
+ [46] [47] [48] [49
+
+] [50]
+LaTeX Font Info:    Font shape `OT1/pbk/bx/it' in size <24.88> not available
+(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 686.
+LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <24.88> not available
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 686.
+
+ [51
+
+]
+[52] [53] [54] [55] [56] [57
+
+
+] [58]
+<BehaviorPipeline.pdf, id=494, 794.97pt x 614.295pt>
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+
+<use BehaviorPipeline.pdf>
+Package pdftex.def Info: BehaviorPipeline.pdf used on input line 773.
+(pdftex.def)             Requested size: 430.00462pt x 332.28613pt.
+ [59] [60 <./BehaviorPipeline.pdf>] [61
+
+] [62]
+LaTeX Font Info:    Try loading font information for OMS+pbk on input line 803.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omspbk.fd
+File: omspbk.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pbk/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 803.
+ [63
+
+] [64]
+[65] [66]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+ [67] [68] [69] [70
+
+
+] [71] [72] [73] [74]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+ [75] [76]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+ [77] [78] [79]
+[80
+
+
+] [81] [82] [83]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+ [84]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+ [85] [86] [87] [88] [89
+
+
+] [90]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+ [91] [92] [93] [94]
+[95] [96] [97] [98] [99
+
+
+] [100] [101] [102] [103] [104] [105] [106
+
+
+] [107]
+[108]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+ [109]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+ [110]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+ [111] [112] [113
+
+
+] [114] [115] [116] [117]
+Underfull \hbox (badness 5302) in paragraph at lines 1397--1398
+[]\OT1/pbk/l/n/12 Difficulty at-tend-ing to and/or ac-cu-rately in-ter-pret-ing
+ so-cial
+ []
+
+[118] [119]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+ [120]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+ [121] [122] [123] [124
+
+
+] [125] [126]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+ [127]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ì in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+ [128] [129]
+[130] [131] [132]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ¶ in font pbkl7t!
+ [133] [134] [135
+
+
+]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ú in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ù in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ú in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ù in font pbkl7t!
+ [136]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ú in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ù in font pbkl7t!
+ [137] [138] [139] [140]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ú in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ù in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ú in font pbkl7t!
+ [141]
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ú in font pbkl7t!
+Missing character: There is no ‚ in font pbkl7t!
+Missing character: There is no Ä in font pbkl7t!
+Missing character: There is no ù in font pbkl7t!
+
+[142] [143] [144
+
+] [145] [146] [147
+
+] [148] [149] [150] [151] [152
+
+
+] [153]
+[154] [155] [156] [157
+
+
+] [158
+
+
+] [159] [160
+
+] [161] [162] [163
+
+] [164] [165]
+[166] [167] [168] [169
+
+
+] [170] [171] [172] [173] [174
+
+
+] [175] [176
+
+
+] [177]
+[178
+
+
+] [179] [180
+
+] [181] [182] [183
+
+] [184] [185] [186] [187] [188
+
+
+] [189]
+[190
+
+
+] [191] [192
+
+
+] [193] [194
+
+
+] [195] [196
+
+
+] [197] [198
+
+] [199] [200] [201
+
+]
+[202
+
+
+] [203] [204]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 2158.
+ [205
+
+
+] [206]
+LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <8> not available
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 2222.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <8> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 2222.
+
+LaTeX Font Info:    Font shape `OT1/pbk/bx/it' in size <8> not available
+(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 2222.
+
+LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <8> not available
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 2222
+.
+
+
+LaTeX Font Warning: Font shape `OML/pbk/bx/n' undefined
+(Font)              using `OML/pbk/m/it' instead
+(Font)              for symbol `textgreater' on input line 2225.
+
+LaTeX Font Info:    Font shape `OML/pbk/m/it' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2225.
+
+LaTeX Font Info:    Font shape `OML/pbk/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2226.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2228.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <6> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 2228.
+LaTeX Font Info:    Font shape `OML/pbk/bx/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2229.
+
+LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <6> not available
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 2251.
+
+[207
+
+] [208
+
+
+
+] [209] [210] [211
+
+
+] [212] [213
+
+] [214] [215] [216] [217
+
+
+] [218]
+[219
+
+] [220] [221
+
+
+] [222] <DecisionTree.pdf, id=1123, 596.83842pt x 794.67299pt>
+File: DecisionTree.pdf Graphic file (type pdf)
+
+<use DecisionTree.pdf>
+Package pdftex.def Info: DecisionTree.pdf used on input line 2713.
+(pdftex.def)             Requested size: 596.83696pt x 794.67105pt.
+File: DecisionTree.pdf Graphic file (type pdf)
+ <use DecisionTree.pdf>
+Package pdftex.def Info: DecisionTree.pdf used on input line 2713.
+(pdftex.def)             Requested size: 596.83696pt x 794.67105pt.
+
+<DecisionTree.pdf, id=1126, page=1, 596.83842pt x 794.67299pt>
+File: DecisionTree.pdf Graphic file (type pdf)
+
+<use DecisionTree.pdf, page 1>
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 2713.
+(pdftex.def)             Requested size: 596.83696pt x 794.67105pt.
+File: DecisionTree.pdf Graphic file (type pdf)
+ <use DecisionTree.pdf, page 1>
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 2713.
+(pdftex.def)             Requested size: 597.5655pt x 795.6411pt.
+ [223
+
+]
+File: DecisionTree.pdf Graphic file (type pdf)
+
+<use DecisionTree.pdf, page 1>
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 2713.
+(pdftex.def)             Requested size: 597.5655pt x 795.6411pt.
+File: DecisionTree.pdf Graphic file (type pdf)
+ <use DecisionTree.pdf, page 1>
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 2713.
+(pdftex.def)             Requested size: 597.5655pt x 795.6411pt.
+File: DecisionTree.pdf Graphic file (type pdf)
+
+<use DecisionTree.pdf, page 1>
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 2713.
+(pdftex.def)             Requested size: 597.5655pt x 795.6411pt.
+ [224 <./DecisionTree.pdf, page is rotated 270 degrees>]
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+ <use BehaviorPipeline.pdf>
+Package pdftex.def Info: BehaviorPipeline.pdf used on input line 2716.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+ <use BehaviorPipeline.pdf>
+Package pdftex.def Info: BehaviorPipeline.pdf used on input line 2716.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+<BehaviorPipeline.pdf, id=1295, page=1, 794.97pt x 614.295pt>
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+
+<use BehaviorPipeline.pdf, page 1>
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 2716.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+ <use BehaviorPipeline.pdf, page 1>
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 2716.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+ [225
+
+]
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+
+<use BehaviorPipeline.pdf, page 1>
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 2716.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+ <use BehaviorPipeline.pdf, page 1>
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 2716.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+File: BehaviorPipeline.pdf Graphic file (type pdf)
+
+<use BehaviorPipeline.pdf, page 1>
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 2716.
+(pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
+ [226 <./BehaviorPipeline.pdf>]
+<MainstreamingPlan.pdf, id=1406, 614.295pt x 794.97pt>
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+
+<use MainstreamingPlan.pdf>
+Package pdftex.def Info: MainstreamingPlan.pdf used on input line 2719.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+ <use MainstreamingPlan.pdf>
+Package pdftex.def Info: MainstreamingPlan.pdf used on input line 2719.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+
+<use MainstreamingPlan.pdf>
+Package pdftex.def Info: MainstreamingPlan.pdf used on input line 2719.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<MainstreamingPlan.pdf, id=1410, page=1, 614.295pt x 794.97pt>
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+
+<use MainstreamingPlan.pdf, page 1>
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 2719.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+ <use MainstreamingPlan.pdf, page 1>
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 2719.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[227
+
+]
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+ <use MainstreamingPlan.pdf, page 1>
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 2719.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+ <use MainstreamingPlan.pdf, page 1>
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 2719.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+
+<use MainstreamingPlan.pdf, page 1>
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 2719.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [228 <./MainstreamingPlan.pdf>]
+<MainstreamingPlan.pdf, id=1433, page=2, 614.295pt x 794.97pt>
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+
+<use MainstreamingPlan.pdf, page 2>
+Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 2719.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+ <use MainstreamingPlan.pdf, page 2>
+Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 2719.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: MainstreamingPlan.pdf Graphic file (type pdf)
+
+<use MainstreamingPlan.pdf, page 2>
+Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 2719.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [229 <./MainstreamingPlan.pdf>] [230
+
+]
+<ClassroomEcologicalInventory.pdf, id=1444, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 27
+22.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+ <use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 27
+22.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 27
+22.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+ <use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 27
+22.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 27
+22.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+ <use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 27
+22.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<ClassroomEcologicalInventory.pdf, id=1451, page=1, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 1>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 1>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [231]
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 1>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 1>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 1>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [232 <./ClassroomEcologicalInventory.pdf>]
+<ClassroomEcologicalInventory.pdf, id=1476, page=2, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 2>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page2 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 2>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page2 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 2>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page2 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [233 <./ClassroomEcologicalInventory.pdf>]
+<ClassroomEcologicalInventory.pdf, id=1481, page=3, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 3>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page3 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 3>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page3 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 3>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page3 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [234 <./ClassroomEcologicalInventory.pdf>]
+<ClassroomEcologicalInventory.pdf, id=1494, page=4, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 4>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page4 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 4>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page4 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 4>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page4 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [235 <./ClassroomEcologicalInventory.pdf>]
+<ClassroomEcologicalInventory.pdf, id=1500, page=5, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 5>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page5 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 5>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page5 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 5>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page5 used on input 
+line 2722.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [236 <./ClassroomEcologicalInventory.pdf>] <BehavioralFirstAidKit.pdf, id=1505
+, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf used on input line 2725.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+ <use BehavioralFirstAidKit.pdf>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf used on input line 2725.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<BehavioralFirstAidKit.pdf, id=1508, page=1, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 1>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 1>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [237
+
+]
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 1>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 1>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 1>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [238 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1533, page=2, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 2>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 2>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 2>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [239 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1537, page=3, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 3>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 3>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 3>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [240 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1541, page=4, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 4>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 4>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 4>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [241 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1546, page=5, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 5>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 5>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 5>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [242 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1550, page=6, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 6>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 6>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 6>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [243 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1554, page=7, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 7>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 7>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 7>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [244 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1558, page=8, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 8>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 8>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 8>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [245 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1562, page=9, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 9>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 9>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 9>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 27
+25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [246 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1566, page=10, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 10>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 10>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 10>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [247 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1571, page=11, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 11>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 11>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 11>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [248 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1575, page=12, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 12>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 12>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 12>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [249 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1579, page=13, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 13>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 13>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 13>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [250 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1583, page=14, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 14>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 14>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 14>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [251 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1597, page=15, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 15>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 15>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 15>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [252 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1610, page=16, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 16>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 16>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 16>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [253 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1622, page=17, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 17>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 17>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 17>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [254 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1633, page=18, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 18>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 18>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 18>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [255 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1643, page=19, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 19>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 19>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 19>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [256 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1653, page=20, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 20>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 20>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 20>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [257 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1663, page=21, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 21>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 21>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 21>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [258 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1673, page=22, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 22>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 22>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 22>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [259 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1691, page=23, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 23>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 23>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 23>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [260 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1701, page=24, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 24>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 24>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 24>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [261 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1711, page=25, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 25>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 25>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 25>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [262 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1721, page=26, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 26>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 26>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 26>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [263 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1731, page=27, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 27>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 27>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 27>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [264 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1741, page=28, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 28>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 28>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 28>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [265 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1752, page=29, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 29>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 29>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 29>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [266 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1763, page=30, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 30>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 30>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 30>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [267 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1773, page=31, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 31>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 31>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 31>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [268 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1783, page=32, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 32>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 32>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 32>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [269 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1793, page=33, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 33>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 33>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 33>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [270 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1803, page=34, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 34>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 34>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 34>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [271 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1814, page=35, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 35>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 35>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 35>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [272 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1824, page=36, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 36>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 36>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 36>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [273 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1834, page=37, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 37>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 37>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 37>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [274 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1844, page=38, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 38>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 38>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 38>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [275 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1854, page=39, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 39>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 39>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 39>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [276 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1864, page=40, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 40>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 40>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 40>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [277 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1875, page=41, 614.295pt x 794.97pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 41>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 41>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 41>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 2
+725.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [278 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1885, page=42, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 42>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 42>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 42>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [279 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1895, page=43, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 43>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 43>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 43>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [280 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1905, page=44, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 44>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 44>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 44>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [281 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1915, page=45, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 45>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 45>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 45>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [282 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1926, page=46, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 46>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 46>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 46>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [283 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1937, page=47, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 47>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 47>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 47>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [284 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1947, page=48, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 48>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 48>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 48>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [285 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1957, page=49, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 49>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 49>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 49>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [286 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1967, page=50, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 50>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 50>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 50>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [287 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1977, page=51, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 51>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 51>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 51>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [288 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1987, page=52, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 52>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 52>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 52>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [289 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1998, page=53, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 53>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 53>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 53>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [290 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=2008, page=54, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 54>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 54>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 54>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [291 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=2018, page=55, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 55>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 55>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 55>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [292 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=2034, page=56, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 56>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 56>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 56>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 2
+725.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [293 <./BehavioralFirstAidKit.pdf>]
+[294
+
+]
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 2732.
+ (./MainstreamingPipeline.ent
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <7> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <10> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OT1/pbk/bx/it' in size <10> not available
+(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <10> not available
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 96.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 100.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Missing character: There is no ¬ in font pbkl7t!
+Missing character: There is no ß in font pbkl7t!
+LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <10> not available
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 309.
+ [295]
+Underfull \hbox (badness 10000) in paragraph at lines 404--424
+\OT1/pcr/m/n/10 \textit{\textbf{https : / / figshare . com / articles / MR _ Hu
+nsaker _ Dissertation /
+ []
+
+) [296] [297
+
+] [298] [299] [300] [301]
+\tf@toc=\write7
+\openout7 = `MainstreamingPipeline.toc'.
+
+\tf@lof=\write8
+\openout8 = `MainstreamingPipeline.lof'.
+
+\tf@lot=\write9
+\openout9 = `MainstreamingPipeline.lot'.
+
+ (./MainstreamingPipeline.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                MainstreamingPipeline
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'MainstreamingPipeline.run.xml'.
+\openout1 = `MainstreamingPipeline.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16149 strings out of 492995
+ 267994 string characters out of 6132704
+ 813178 words of memory out of 5000000
+ 19460 multiletter control sequences out of 15000+600000
+ 32985 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 45i,18n,49p,1497b,3205s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/urw/bookman/ubkdi8a.pfb></usr/local/texlive/2017/texmf-dist/fo
+nts/type1/urw/bookman/ubkl8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/urw/bookman/ubkl8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/bo
+okman/ubkli8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/u
+crr8a.pfb>
+Output written on MainstreamingPipeline.pdf (313 pages, 1724735 bytes).
+PDF statistics:
+ 2126 PDF objects out of 2487 (max. 8388607)
+ 1393 compressed objects within 14 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 436 words of extra memory for PDF output out of 10000 (max. 10000000)
+

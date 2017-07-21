@@ -1,0 +1,42 @@
+grViz("
+digraph dot {
+graph [layout = circo]
+
+node [shape = circle,
+      style = filled,
+      color = red]
+1 [label='DG']
+2 [label='CA3']
+3 [label='CA1']
+4 [label='Sub']
+
+node [shape = square,
+      style = filled,
+      color = green]
+5 [label='MEC']
+6 [label='LEC']
+7 [label='PrS_PoS']
+8 [label='PER']
+9 [label='PRC']
+
+node [fillcolor = red]
+1 2 3 4 
+
+node [fillcolor = green]
+5 6 7 8 9
+
+node [fillcolor = orange]
+
+edge [color = red]
+1 -> {2}
+2 -> {2 3}
+3 -> {4 5 6}
+4 -> {5 6}
+
+edge [color = green]
+5 -> {1 2 3 4 6}
+6 -> {1 2 3 4 5 8}
+7 -> {5}
+8 -> {6 9}
+9 -> {5}
+}")

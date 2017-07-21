@@ -1,0 +1,99 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\centering
+\vspace*{0cm}\caption{Data Considered by a Mainstream Decision Tree}
+\label{tab1}
+\resizebox{\textwidth}{!}
+{\begin{tabular}{ccccc}
+\hline\\[-1.5ex]
+Adaptive & Intelligence & \multicolumn{2}{c}{Academic Achievement} & Emotional \\[0.5ex]
+\cmidrule(lr){3-4}
+ & & Woodcock Johnson IIINU/IV & Curriculum Based Measurements & \\
+\hline\\[-1.5ex]
+VABS 2/3 & Stanford Binet V & Reading Skills & District Benchmarks & BASC 2/3\\
+ABAS 2/3 & Weschler Nonverbal & Reading Comprehension & Utah Compose & Connor's 3\\
+BASC 2/3 (Adaptive) & WISC IV/V & Math Calculation & AIMS Web & Achenbach CBCL\\
+ & Woodcock Johnson IIINU/IV & Math Reasoning & DRA 2 & \\
+ & KBIT 2 & Broad Writing (includes Spelling) & Spelling City & \\
+ & Leiter R & Broad Reading & GoMath Benchmark, Chapter Tests & \\
+ & UNIT 2 & Broad Math & Eureka Math &\\
+ & & & DIBLES Next &\\
+ & & & Success Maker &\\
+ & & & Imagine Learning &\\
+ & & & Reflex Math &\\
+ & & & Common Formative Assessments (CFA) &\\
+ & & & \textbf{Any evidence-based measure approved by IEP team} &\\
+\hline
+\end{tabular}}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\centering
+\caption{Data \textit{Not Considered} by a Mainstream Decision Tree}
+\label{tab2}
+\begin{tabular}{l}
+\hline\\
+Behavioral data from the self-contained classroom\\
+Past lack of success in mainstreaming\\
+Past lack of school skills necessary for mainstreaming\\
+Anecdotal reports of any kind not supported by data\\
+Requirement for para-educator time or resources\\
+Student idiosyncrasies/peculiarities\\
+Student personality\\
+Parent concerns about academic abilities\\
+Parent concerns about behavioral abilities\\
+Social skills deficits\\
+Student mobility issues\\
+Special education classification\\
+Student speech issues\\
+Information regarding disability\\
+Medical/Psychiatric diagnoses\\
+~~~~~Autism\\
+~~~~~ADHD\\
+~~~~~Epilepsy\\
+~~~~~Tic Disorders\\
+~~~~~Tourette's\\
+~~~~~ODD, OCD, Bipolar, BPD, etc.\\
+~~~~~Anxiety/Depression status \\
+Current or past medications\\
+Hesitation of parents to pursue psychiatric help for student\\
+Medication compliance or noncompliance\\
+Quality of Relationship Teacher has with Parent\\
+"Red Flag" or helicopter parent \\
+\hline
+\end{tabular}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\centering
+\caption{Cutoff/Criteria Performance Levels for Mainstream Decision Tree}
+\label{tab3}
+\begin{tabular}{cc}
+\hline \\
+Adaptive & Intelligence\\
+\hline \\
+VABS II/3 or ABAS II/3 & Any FSIQ, NVIQ, or VIQ Measure\\
+SS \textless60 & SS \textless70\\
+SS \textgreater60 & SS 70-100\\
+BASC 2/3 (Adaptive) & SS \textgreater100\\
+T \textless30 & \\
+T \textgreater30 & \\
+\hline \\
+Academic & Socio-Emotional\\
+\hline \\
+WJ-IIINU/IV & BASC 2/3/Connor's 3/CBCL\\
+SS \textless70 \& RPI \textless18 & T \textless70\\
+SS 70-100 \& RPI 18-34 & T \textgreater70\\
+SS \textgreater100 \& RPI \textgreater34 &\\
+\hline
+\end{tabular}
+\end{table*}
+\efloatseparator
+ 

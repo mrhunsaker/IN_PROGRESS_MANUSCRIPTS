@@ -1,0 +1,17 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'UnfoldCogMap.blg'
+[36] biber-darwin:303> INFO - === Fri Jul 14, 2017, 18:58:17
+[58] Biber.pm:359> INFO - Reading 'UnfoldCogMap.bcf'
+[163] Biber.pm:835> INFO - Found 285 citekeys in bib section 0
+[175] Biber.pm:3670> INFO - Processing section 0
+[187] Biber.pm:3840> INFO - Looking for bibtex format file './Bibliography.bib' for section 0
+[233] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[320] bibtex.pm:1292> INFO - Found BibTeX data source './Bibliography.bib'
+[1815] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1815] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1815] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1815] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[2123] bbl.pm:608> INFO - Writing 'UnfoldCogMap.bbl' with encoding 'ascii'
+[2145] Utils.pm:164> WARN - The entry 'Floresco11061' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2214] bbl.pm:712> INFO - Output to UnfoldCogMap.bbl
+[2215] Biber.pm:109> INFO - WARNINGS: 1

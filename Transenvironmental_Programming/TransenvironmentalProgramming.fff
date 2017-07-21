@@ -1,0 +1,29 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htp!]
+\centering
+\includegraphics[width=\textwidth]{Figure1.pdf}
+\caption[Mainstreaming Decision Tree]{\textit{Mainstreaming Decision Tree. The Mainstreaming Decision Tree is a visual depiction of the data-driven decision making process used to identify candidates for transition from self-contained special education to general education with part time special education/Resource services placements. Data regarding Adaptive Function is the first decision point, followed by Full Scale IQ, Academic Achievement, and Socio-Emotional Well Being. Along the bottom are the spectrum of restrictive environments ranging from inclusion with an aide on the left to independent mainstream access to the general education classroom on the right.}}
+\label{fig1}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htp!]
+\includegraphics[width=\textwidth]{Yerkes-Dodson.pdf}
+\caption[Yerkes Dodson Law]{\textit{Yerkes Dodson Law applied to anxiety after \parencite{yerkes1908relation}. There was a clear relationship between stress and performance, with more stress (or challenge) being required to increase performance up to a point. After that point, there was too much stress and performance decreases. The middle curve line is a model curve for a "typical" student. The high anxiety student line (\textit{e.g.}, T\textsubscript{anxiety}\textgreater70 on BASC 2) shows that student performance peaks at lower stress levels. This suggests the students need increased support to shift the curve rightward where the typical curve is located. Low anxiety student performance peaks at higher stress levels. This suggests they need to be pushed and challenged to shift the curve leftward to where the black curve was located, as they are showing poor performance at "typical" levels of perceived stress.}}
+\label{fig2}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htp!]
+\centering
+\includegraphics[width=\textwidth]{BehaviorPipeline.pdf}
+\caption[Behaviroal Mainstreaming Decision Tree]{\textit{Behavioral Mainstreaming Decision Tree. The Behavioral Mainstreaming Decision Tree is a visual depiction of the data-driven decision making process used to identify candidates for transition from self-contained special education to general education with part time special education/Resource services placements. Data regarding behavioral performance in self contained and general education classroom are collected and taken into account. Biweekly meetings are held to determine if student needs more or less restrictive environments. Along the bottom are the spectrum of restrictive environments ranging from inclusion with an aide on the left to independent mainstream access to the general education classroom on the right.}}
+\label{fig3}
+\end{figure*}
+\efloatseparator
+ 
