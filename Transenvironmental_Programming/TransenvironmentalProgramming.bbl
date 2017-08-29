@@ -48,6 +48,154 @@
       \field{pages}{9\bibrangedash 29}
       \range{pages}{21}
     \endentry
+    \entry{avramidis2000survey}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=500b5f5b6cd28eb9b8f0a9af34abaae1}{%
+           family={Avramidis},
+           familyi={A\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=0a525e0745ee0fe9c2b03b87bd10f853}{%
+           family={Bayliss},
+           familyi={B\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=c8b380b9339a78e267617ae1ab830408}{%
+           family={Burden},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{fca7924453d80a29a41cab6eb3a178c2}
+      \strng{fullhash}{102f7e7e0d753413556d46a8da87c8e9}
+      \strng{authornamehash}{fca7924453d80a29a41cab6eb3a178c2}
+      \strng{authorfullhash}{102f7e7e0d753413556d46a8da87c8e9}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational psychology}
+      \field{number}{2}
+      \field{title}{A survey into mainstream teachers' attitudes towards the inclusion of children with special educational needs in the ordinary school in one local education authority}
+      \field{volume}{20}
+      \field{year}{2000}
+      \field{pages}{191\bibrangedash 211}
+      \range{pages}{21}
+    \endentry
+    \entry{barbeau2013level}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=eb5753cf0dd113a5cfcbc2c8b6c26dd8}{%
+           family={Barbeau},
+           familyi={B\bibinitperiod},
+           given={Elise\bibnamedelima B},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{uniquename=0,hash=ae99cd3b4d6689e8d808322ac4f5003e}{%
+           family={Soulieres},
+           familyi={S\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{uniquename=0,hash=6299c192f277a742d6c7c060b5647d54}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=9dc8d6702a3795a4d1ad4ddc892f0338}{%
+           family={Zeffiro},
+           familyi={Z\bibinitperiod},
+           given={Thomas\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=d9c0a355b5a90916c68d689a8b88e990}{%
+           family={Mottron},
+           familyi={M\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{156f60fa1b90e4dce4cf31ab00cd53d1}
+      \strng{fullhash}{7557892ec58b80c36cbe8067f2404fb4}
+      \strng{authornamehash}{156f60fa1b90e4dce4cf31ab00cd53d1}
+      \strng{authorfullhash}{7557892ec58b80c36cbe8067f2404fb4}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of abnormal psychology}
+      \field{number}{1}
+      \field{title}{The level and nature of autistic intelligence III: Inspection time.}
+      \field{volume}{122}
+      \field{year}{2013}
+      \field{pages}{295}
+      \range{pages}{1}
+    \endentry
+    \entry{barnes2015teachers}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=db5bac03475d157c1f5f5029fa365fa9}{%
+           family={Barnes},
+           familyi={B\bibinitperiod},
+           given={Marsha\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{uniquename=0,hash=a0c678cf7a2d4dfb3a3a9b568eae9e2a}{%
+           family={Gaines},
+           familyi={G\bibinitperiod},
+           given={Trudi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ff25c9ddebd68e3cc7b7fcf55a93658}
+      \strng{fullhash}{1ff25c9ddebd68e3cc7b7fcf55a93658}
+      \strng{authornamehash}{1ff25c9ddebd68e3cc7b7fcf55a93658}
+      \strng{authorfullhash}{1ff25c9ddebd68e3cc7b7fcf55a93658}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronic Journal for Inclusive Education}
+      \field{number}{3}
+      \field{title}{Teachers' attitudes and perceptions of inclusion in relation to grade level and years of experience}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{3}
+      \range{pages}{1}
+    \endentry
+    \entry{bedinim1990separate}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=37359db7a5116633df03ee88c8626135}{%
+           family={Bedinim},
+           familyi={B\bibinitperiod},
+           given={Leandra\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis Group}%
+      }
+      \strng{namehash}{37359db7a5116633df03ee88c8626135}
+      \strng{fullhash}{37359db7a5116633df03ee88c8626135}
+      \strng{authornamehash}{37359db7a5116633df03ee88c8626135}
+      \strng{authorfullhash}{37359db7a5116633df03ee88c8626135}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physical Education, Recreation \& Dance}
+      \field{number}{8}
+      \field{title}{Separate but equal? Segregated programming for people with disabilities}
+      \field{volume}{61}
+      \field{year}{1990}
+      \field{pages}{40\bibrangedash 44}
+      \range{pages}{5}
+    \endentry
     \entry{biswas2016cognitive}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=fa623a39068ed5d71078c7f72575e363}{%
@@ -253,6 +401,136 @@
       \field{year}{2005}
       \field{pages}{355\bibrangedash 361}
       \range{pages}{7}
+    \endentry
+    \entry{courchesne2015autistic}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=b141edaed090fbd9d5368f8566924aaa}{%
+           family={Courchesne},
+           familyi={C\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod}}}%
+        {{uniquename=0,hash=bdcd3d3e7546f030e9dc9886d5f93286}{%
+           family={Meilleur},
+           familyi={M\bibinitperiod},
+           given={Andre-Anne\bibnamedelima S},
+           giveni={A\bibinithyphendelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=e7336632197e2888ebf9a0c653bcaa35}{%
+           family={Poulin-Lord},
+           familyi={P\bibinithyphendelim L\bibinitperiod},
+           given={Marie-Pier},
+           giveni={M\bibinithyphendelim P\bibinitperiod}}}%
+        {{uniquename=0,hash=6299c192f277a742d6c7c060b5647d54}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=ae99cd3b4d6689e8d808322ac4f5003e}{%
+           family={Soulieres},
+           familyi={S\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{e5c91fa0758c8f3e3255001b499c0bbf}
+      \strng{fullhash}{2b5121822c766723371a8b4e86eed4b9}
+      \strng{authornamehash}{e5c91fa0758c8f3e3255001b499c0bbf}
+      \strng{authorfullhash}{2b5121822c766723371a8b4e86eed4b9}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular autism}
+      \field{number}{1}
+      \field{title}{Autistic children at risk of being underestimated: school-based pilot study of a strength-informed assessment}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{12}
+      \range{pages}{1}
+    \endentry
+    \entry{daniel1997educating}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5eac97ee5c07e6d0e5d3f3cfa3953ff2}{%
+           family={Daniel},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima TK},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MCB UP Ltd}%
+      }
+      \strng{namehash}{5eac97ee5c07e6d0e5d3f3cfa3953ff2}
+      \strng{fullhash}{5eac97ee5c07e6d0e5d3f3cfa3953ff2}
+      \strng{authornamehash}{5eac97ee5c07e6d0e5d3f3cfa3953ff2}
+      \strng{authorfullhash}{5eac97ee5c07e6d0e5d3f3cfa3953ff2}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Educational Administration}
+      \field{number}{5}
+      \field{title}{Educating students with disabilities in the least restrictive environment: A slippery slope for educators}
+      \field{volume}{35}
+      \field{year}{1997}
+      \field{pages}{397\bibrangedash 410}
+      \range{pages}{14}
+    \endentry
+    \entry{dawson2007}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=6299c192f277a742d6c7c060b5647d54}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=ae99cd3b4d6689e8d808322ac4f5003e}{%
+           family={Soulieres},
+           familyi={S\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{uniquename=0,hash=91a1531f1a61ff190726b4c63d258600}{%
+           family={Gernsbacher},
+           familyi={G\bibinitperiod},
+           given={Morton\bibnamedelima Ann},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=d9c0a355b5a90916c68d689a8b88e990}{%
+           family={Mottron},
+           familyi={M\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2328a5ae2ef57a4443ea8087d12b68ae}
+      \strng{fullhash}{fd23882d4e8a4c739aa53f8d2fc7c5fa}
+      \strng{authornamehash}{2328a5ae2ef57a4443ea8087d12b68ae}
+      \strng{authorfullhash}{fd23882d4e8a4c739aa53f8d2fc7c5fa}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Autistics are presumed to be characterized by cognitive impairment, and their cognitive strengths (e.g., in Block Design performance) are frequently interpreted as low-level by-products of high-level deficits, not as direct manifestations of intelligence. Recent attempts to identify the neuroanatomical and neurofunctional signature of autism have been positioned on this universal, but untested, assumption. We therefore assessed a broad sample of 38 autistic children on the preeminent test of fluid intelligence, Raven's Progressive Matrices. Their scores were, on average, 30 percentile points, and in some cases more than 70 percentile points, higher than their scores on the Wechsler scales of intelligence. Typically developing control children showed no such discrepancy, and a similar contrast was observed when a sample of autistic adults was compared with a sample of nonautistic adults. We conclude that intelligence has been underestimated in autistics.}
+      \field{journaltitle}{Psychological Science}
+      \field{note}{PMID: 17680932}
+      \field{number}{8}
+      \field{title}{The Level and Nature of Autistic Intelligence}
+      \field{volume}{18}
+      \field{year}{2007}
+      \field{pages}{657\bibrangedash 662}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1111/j.1467-9280.2007.01954.x
+      \endverb
+      \verb{eprint}
+      \verb http://dx.doi.org/10.1111/j.1467-9280.2007.01954.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1467-9280.2007.01954.x
+      \endverb
     \endentry
     \entry{de2005adaptive}{article}{}
       \name{author}{5}{}{%
@@ -465,6 +743,37 @@
       \field{year}{2006}
       \field{pages}{358\bibrangedash 366}
       \range{pages}{9}
+    \endentry
+    \entry{ferri2005tools}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=f6d3de0dd702b43b07ff1c419c7d7b00}{%
+           family={Ferri},
+           familyi={F\bibinitperiod},
+           given={Beth\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=dd042e9bbaf856a73634401929e08476}{%
+           family={Connor},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8daff484efca32f7b13c39db2a311808}
+      \strng{fullhash}{8daff484efca32f7b13c39db2a311808}
+      \strng{authornamehash}{8daff484efca32f7b13c39db2a311808}
+      \strng{authorfullhash}{8daff484efca32f7b13c39db2a311808}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Teachers College Record}
+      \field{number}{3}
+      \field{title}{Tools of exclusion: Race, disability, and (re) segregated education}
+      \field{volume}{107}
+      \field{year}{2005}
+      \field{pages}{453\bibrangedash 474}
+      \range{pages}{22}
     \endentry
     \entry{fisher2003special}{article}{}
       \name{author}{3}{}{%
@@ -765,6 +1074,35 @@
       \field{pages}{167\bibrangedash 181}
       \range{pages}{15}
     \endentry
+    \entry{peacock1991problems}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4429f3a94712bdc4ffa1affcaa552bfa}{%
+           family={Group},
+           familyi={G\bibinitperiod},
+           given={Peacock\bibnamedelimb Hill\bibnamedelima Working},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{4429f3a94712bdc4ffa1affcaa552bfa}
+      \strng{fullhash}{4429f3a94712bdc4ffa1affcaa552bfa}
+      \strng{authornamehash}{4429f3a94712bdc4ffa1affcaa552bfa}
+      \strng{authorfullhash}{4429f3a94712bdc4ffa1affcaa552bfa}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Disorders}
+      \field{number}{4}
+      \field{title}{Problems and promises in special education and related services for children and youth with emotional or behavioral disorders}
+      \field{volume}{16}
+      \field{year}{1991}
+      \field{pages}{299\bibrangedash 313}
+      \range{pages}{15}
+    \endentry
     \entry{heritage2007formative}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=f87544c2f75d72222c4f343f47497197}{%
@@ -860,6 +1198,40 @@
       \field{pages}{175\bibrangedash 183}
       \range{pages}{9}
     \endentry
+    \entry{iwata1974reward}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=6d72f4ac1512a9acaaeee3a559693cfa}{%
+           family={Iwata},
+           familyi={I\bibinitperiod},
+           given={Brian\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=41d7993ec7d6ac10dca86939145bb1af}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Jon\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{87731d48cf96355daa67dac5d27c6198}
+      \strng{fullhash}{87731d48cf96355daa67dac5d27c6198}
+      \strng{authornamehash}{87731d48cf96355daa67dac5d27c6198}
+      \strng{authorfullhash}{87731d48cf96355daa67dac5d27c6198}
+      \field{sortinit}{I}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Behavior Analysis}
+      \field{number}{4}
+      \field{title}{Reward versus cost token systems: An analysis of the effects on students and teacher}
+      \field{volume}{7}
+      \field{year}{1974}
+      \field{pages}{567\bibrangedash 576}
+      \range{pages}{10}
+    \endentry
     \entry{johnson2005key}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=2d9be5e3d68b8744da24415fc721fdcb}{%
@@ -888,6 +1260,73 @@
       \field{year}{2005}
       \field{pages}{60}
       \range{pages}{1}
+    \endentry
+    \entry{kalaci2007students}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a4bfb1690f2bafb4ad8ce1735e03ecd8}{%
+           family={Kalaci},
+           familyi={K\bibinitperiod},
+           given={Shima},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{a4bfb1690f2bafb4ad8ce1735e03ecd8}
+      \strng{fullhash}{a4bfb1690f2bafb4ad8ce1735e03ecd8}
+      \strng{authornamehash}{a4bfb1690f2bafb4ad8ce1735e03ecd8}
+      \strng{authorfullhash}{a4bfb1690f2bafb4ad8ce1735e03ecd8}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{T. Jefferson L. Rev.}
+      \field{title}{Students with autism left behind: No child left behind and the individuals with disabilities education act}
+      \field{volume}{30}
+      \field{year}{2007}
+      \field{pages}{723}
+      \range{pages}{1}
+    \endentry
+    \entry{kauffman2002separate}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=943b17117d6cf88b103b0a94425f8395}{%
+           family={Kauffman},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=1796f01bc9c507fb2f16719407f67826}{%
+           family={Bantz},
+           familyi={B\bibinitperiod},
+           given={Jeanmarie},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=f470ef8dbbfdee8375d5e23211b9727a}{%
+           family={McCullough},
+           familyi={M\bibinitperiod},
+           given={Jenn},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{ebf4c93b4d26a4cc9a2ed4f0118f5c62}
+      \strng{fullhash}{e25d872025e6ae3bd1d124003aa6a703}
+      \strng{authornamehash}{ebf4c93b4d26a4cc9a2ed4f0118f5c62}
+      \strng{authorfullhash}{e25d872025e6ae3bd1d124003aa6a703}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Exceptionality}
+      \field{number}{3}
+      \field{title}{Separate and better: A special public school class for students with emotional and behavioral disorders}
+      \field{volume}{10}
+      \field{year}{2002}
+      \field{pages}{149\bibrangedash 170}
+      \range{pages}{22}
     \endentry
     \entry{klotz2005new}{article}{}
       \name{author}{2}{}{%
@@ -957,6 +1396,34 @@
       \field{year}{1997}
       \field{pages}{123\bibrangedash 137}
       \range{pages}{15}
+    \endentry
+    \entry{marchese2000putting}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=29353854bddf735486f638d73ea11771}{%
+           family={Marchese},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{29353854bddf735486f638d73ea11771}
+      \strng{fullhash}{29353854bddf735486f638d73ea11771}
+      \strng{authornamehash}{29353854bddf735486f638d73ea11771}
+      \strng{authorfullhash}{29353854bddf735486f638d73ea11771}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rutgers L. Rev.}
+      \field{title}{Putting square pegs into round holes: Mediation and the rights of children with disabilities under the IDEA}
+      \field{volume}{53}
+      \field{year}{2000}
+      \field{pages}{333}
+      \range{pages}{1}
     \endentry
     \entry{marden2013criteria}{thesis}{}
       \name{author}{1}{}{%
@@ -1030,6 +1497,128 @@
       \field{pages}{615\bibrangedash 624}
       \range{pages}{10}
     \endentry
+    \entry{mccarthy2012vestiges}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=104dae543a70780cc9fadafc994a8533}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={Mary\bibnamedelima Rose},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=baaeb3ce5affbd191fbe6fc61998b62c}{%
+           family={Wiener},
+           familyi={W\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=5de83b463fe3412823378d420717c4e0}{%
+           family={Soodak},
+           familyi={S\bibinitperiod},
+           given={Leslie\bibnamedelima Carol},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{10345b411e928072df8f9458ec7617e5}
+      \strng{fullhash}{72cadd6a1736699b643bb4bc0ae0c0e0}
+      \strng{authornamehash}{10345b411e928072df8f9458ec7617e5}
+      \strng{authorfullhash}{72cadd6a1736699b643bb4bc0ae0c0e0}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Policy}
+      \field{number}{2}
+      \field{title}{Vestiges of segregation in the implementation of inclusion policies in public high schools}
+      \field{volume}{26}
+      \field{year}{2012}
+      \field{pages}{309\bibrangedash 338}
+      \range{pages}{30}
+    \endentry
+    \entry{mcleskey2012we}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=0688e79f030c3a1aed320c3a1eeb638d}{%
+           family={McLeskey},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=997fa5d5b0c6ac851961b1aa70050fce}{%
+           family={Landers},
+           familyi={L\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=35487bbd5973c2a0f838db830ea533c0}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=d32a4b99c30d831c77eb7ea7ebdf1f81}{%
+           family={Hoppey},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{d66d822303ee4adb4747cf0f7d47466d}
+      \strng{fullhash}{e8c1d76f540c13117f350525e14a9c01}
+      \strng{authornamehash}{d66d822303ee4adb4747cf0f7d47466d}
+      \strng{authorfullhash}{e8c1d76f540c13117f350525e14a9c01}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Special Education}
+      \field{number}{3}
+      \field{title}{Are we moving toward educating students with disabilities in less restrictive settings?}
+      \field{volume}{46}
+      \field{year}{2012}
+      \field{pages}{131\bibrangedash 140}
+      \range{pages}{10}
+    \endentry
+    \entry{mukherjee2000inclusion}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=e9bfc5c76f035542c303c49bb5b58392}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Suzanne},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=375ae84ab4000010dc529dfabdc3f7cc}{%
+           family={Lightfoot},
+           familyi={L\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=51d101f3d4118db01dc00766893f3108}{%
+           family={Sloper},
+           familyi={S\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{d49fc53c69eaac0b7e8d92b27fe892d4}
+      \strng{fullhash}{71370f230c2c1b7e040aea6d3bc88084}
+      \strng{authornamehash}{d49fc53c69eaac0b7e8d92b27fe892d4}
+      \strng{authorfullhash}{71370f230c2c1b7e040aea6d3bc88084}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Research}
+      \field{number}{1}
+      \field{title}{The inclusion of pupils with a chronic health condition in mainstream school: what does it mean for teachers?}
+      \field{volume}{42}
+      \field{year}{2000}
+      \field{pages}{59\bibrangedash 72}
+      \range{pages}{14}
+    \endentry
     \entry{nader2014does}{article}{}
       \name{author}{4}{}{%
         {{uniquename=0,hash=892992e062864370bd4e825ed5e45cd1}{%
@@ -1063,7 +1652,6 @@
       \field{sortinit}{N}
       \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of autism and developmental disorders}
@@ -1071,6 +1659,74 @@
       \field{year}{2014}
       \field{pages}{1\bibrangedash 8}
       \range{pages}{8}
+    \endentry
+    \entry{nader2016does}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=892992e062864370bd4e825ed5e45cd1}{%
+           family={Nader},
+           familyi={N\bibinitperiod},
+           given={Anne-Marie},
+           giveni={A\bibinithyphendelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=b141edaed090fbd9d5368f8566924aaa}{%
+           family={Courchesne},
+           familyi={C\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod}}}%
+        {{uniquename=0,hash=6299c192f277a742d6c7c060b5647d54}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=ae99cd3b4d6689e8d808322ac4f5003e}{%
+           family={Soulieres},
+           familyi={S\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4fe317484cd290a3cc954cd8e355d01a}
+      \strng{fullhash}{afcc3730332bd8cbab3cf821d55d3e80}
+      \strng{authornamehash}{4fe317484cd290a3cc954cd8e355d01a}
+      \strng{authorfullhash}{afcc3730332bd8cbab3cf821d55d3e80}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Autism and Developmental Disorders}
+      \field{number}{5}
+      \field{title}{Does WISC-IV underestimate the intelligence of autistic children?}
+      \field{volume}{46}
+      \field{year}{2016}
+      \field{pages}{1582\bibrangedash 1589}
+      \range{pages}{8}
+    \endentry
+    \entry{nolan2004us}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fc3979ce82cc8ee62261aa82f464a84a}{%
+           family={Nolan},
+           familyi={N\bibinitperiod},
+           given={Joseph\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{fc3979ce82cc8ee62261aa82f464a84a}
+      \strng{fullhash}{fc3979ce82cc8ee62261aa82f464a84a}
+      \strng{authornamehash}{fc3979ce82cc8ee62261aa82f464a84a}
+      \strng{authorfullhash}{fc3979ce82cc8ee62261aa82f464a84a}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Online Submission}
+      \field{title}{The US Individuals with Disabilities Education Act (IDEA): Tracing Inclusion and Exclusion of the Disabled from Ford to Bush II.}
+      \field{year}{2004}
     \endentry
     \entry{oakland2011adaptive}{book}{}
       \name{author}{2}{}{%
@@ -1174,6 +1830,35 @@
       \field{year}{2014}
       \field{pages}{192S\bibrangedash 192S}
       \range{pages}{-1}
+    \endentry
+    \entry{praisner2003attitudes}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bf6451010fb3243e33eca905352448a3}{%
+           family={Praisner},
+           familyi={P\bibinitperiod},
+           given={Cindy\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{bf6451010fb3243e33eca905352448a3}
+      \strng{fullhash}{bf6451010fb3243e33eca905352448a3}
+      \strng{authornamehash}{bf6451010fb3243e33eca905352448a3}
+      \strng{authorfullhash}{bf6451010fb3243e33eca905352448a3}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Exceptional children}
+      \field{number}{2}
+      \field{title}{Attitudes of elementary school principals toward the inclusion of students with disabilities}
+      \field{volume}{69}
+      \field{year}{2003}
+      \field{pages}{135\bibrangedash 145}
+      \range{pages}{11}
     \endentry
     \entry{raines2012universal}{article}{}
       \name{author}{4}{}{%
@@ -1302,6 +1987,67 @@
       \field{pages}{130}
       \range{pages}{1}
     \endentry
+    \entry{PITS:PITS8}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=288e93e3412f1e45822c4f1ebe3ba9ac}{%
+           family={Ruth},
+           familyi={R\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Subscription Services, Inc., A Wiley Company}%
+      }
+      \strng{namehash}{288e93e3412f1e45822c4f1ebe3ba9ac}
+      \strng{fullhash}{288e93e3412f1e45822c4f1ebe3ba9ac}
+      \strng{authornamehash}{288e93e3412f1e45822c4f1ebe3ba9ac}
+      \strng{authorfullhash}{288e93e3412f1e45822c4f1ebe3ba9ac}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1520-6807}
+      \field{journaltitle}{Psychology in the Schools}
+      \field{number}{2}
+      \field{title}{Goal setting and behavior contracting for students with emotional and behavioral difficulties: Analysis of daily, weekly, and total goal attainment}
+      \field{volume}{33}
+      \field{year}{1996}
+      \field{pages}{153\bibrangedash 158}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1002/(SICI)1520-6807(199604)33:2<153::AID-PITS8>3.0.CO;2-S
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/(SICI)1520-6807(199604)33:2%3C153::AID-PITS8%3E3.0.CO;2-S
+      \endverb
+    \endentry
+    \entry{savich2008inclusion}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=600f8b0eace24cc585599c52c2d7821c}{%
+           family={Savich},
+           familyi={S\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{600f8b0eace24cc585599c52c2d7821c}
+      \strng{fullhash}{600f8b0eace24cc585599c52c2d7821c}
+      \strng{authornamehash}{600f8b0eace24cc585599c52c2d7821c}
+      \strng{authorfullhash}{600f8b0eace24cc585599c52c2d7821c}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Online Submission}
+      \field{title}{Inclusion: The Pros and Cons--A Critical Review.}
+      \field{year}{2008}
+    \endentry
     \entry{skiba2008achieving}{article}{}
       \name{author}{7}{}{%
         {{uniquename=0,hash=8fae1dde2259db75850fc43188a3ebcf}{%
@@ -1341,7 +2087,7 @@
            giveni={C\bibinithyphendelim G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {SAGE Publications}%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
       }
       \strng{namehash}{cd5519712100062cafce164ed609763c}
       \strng{fullhash}{5f86c5695390cdd11edfddd0540a203e}
@@ -1360,6 +2106,74 @@
       \field{year}{2008}
       \field{pages}{264\bibrangedash 288}
       \range{pages}{25}
+    \endentry
+    \entry{smith2006classroom}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=09bb109a4892efe3ee3c3a90ab3d39a0}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Robin\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{09bb109a4892efe3ee3c3a90ab3d39a0}
+      \strng{fullhash}{09bb109a4892efe3ee3c3a90ab3d39a0}
+      \strng{authornamehash}{09bb109a4892efe3ee3c3a90ab3d39a0}
+      \strng{authorfullhash}{09bb109a4892efe3ee3c3a90ab3d39a0}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Inclusive Education}
+      \field{number}{1}
+      \field{title}{Classroom management texts: a study in the representation and misrepresentation of students with disabilities}
+      \field{volume}{10}
+      \field{year}{2006}
+      \field{pages}{91\bibrangedash 104}
+      \range{pages}{14}
+    \endentry
+    \entry{Smith1993}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=94cdaa3b2c8a2914798b96e7d91c999a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Stephen\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{uniquename=0,hash=5b2b27d54b2711567c49163807a9f60b}{%
+           family={Farrell},
+           familyi={F\bibinitperiod},
+           given={Daniel\bibnamedelima T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4846fec9db6a9d4352b90e7e47f171fd}
+      \strng{fullhash}{4846fec9db6a9d4352b90e7e47f171fd}
+      \strng{authornamehash}{4846fec9db6a9d4352b90e7e47f171fd}
+      \strng{authorfullhash}{4846fec9db6a9d4352b90e7e47f171fd}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abundant descriptive literature exists regarding the use of level systems in classrooms for students with significant behavior problems. Despite this abundance, only prima facie evidence as to its efficiency and power to significantly change behavior has been offered. That is, little empirical data have been available to guide the design, development, and implementation of level systems. This article presents a chronicle of the development of level systems and examines assumptions underlying their concepts and components. The discussion leads to a set of recommendations to help guide future research into the design and implementation of level systems.}
+      \field{journaltitle}{Behavioral Disorders}
+      \field{number}{4}
+      \field{title}{Level System Use in Special Education: Classroom Intervention with Prima Facie Appeal}
+      \field{volume}{18}
+      \field{year}{1993}
+      \field{pages}{251\bibrangedash 264}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1177/019874299301800408
+      \endverb
+      \verb{eprint}
+      \verb http://dx.doi.org/10.1177/019874299301800408
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1177/019874299301800408
+      \endverb
     \endentry
     \entry{taub2004confirmatory}{article}{}
       \name{author}{2}{}{%
