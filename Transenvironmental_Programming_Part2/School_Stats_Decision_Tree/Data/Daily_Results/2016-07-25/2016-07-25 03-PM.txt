@@ -1,0 +1,491 @@
+[1] "2016-07-25 15:08:01 UTC"
+[1] "K means cross validation - 30 v 31"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 30, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 30, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+ ( 15 22 10 )
+
+
+Number of Classes:  3 
+
+Levels: 
+ GenEd Inclusion Mainstream
+
+30-fold cross-validation on training data:
+
+Total Accuracy: 67.21311 
+Single Accuracies:
+ 0 50 50 50 50 50 50 50 50 50 100 100 50 100 100 50 100 100 50 100 100 50 50 50 50 50 100 50 100 100 
+
+
+
+         1          2          3          4          5          6          7 
+ Inclusion Mainstream Mainstream  Inclusion  Inclusion  Inclusion      GenEd 
+         8          9         10         11         12         13         14 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion 
+        15         16         17         18         19         20         21 
+Mainstream  Inclusion Mainstream      GenEd Mainstream      GenEd  Inclusion 
+        22         23         24         25         26         27         28 
+     GenEd      GenEd      GenEd Mainstream  Inclusion      GenEd  Inclusion 
+        29         30         31         32         33         34         35 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion 
+        36         37         38         39         40         41         42 
+Mainstream  Inclusion Mainstream      GenEd  Inclusion  Inclusion Mainstream 
+        43         44         45         46         47         48         49 
+Mainstream Mainstream Mainstream Mainstream      GenEd      GenEd  Inclusion 
+        50         51         52         53         54         55         56 
+ Inclusion Mainstream Mainstream  Inclusion Mainstream Mainstream      GenEd 
+        57         58         59         60         61 
+Mainstream      GenEd Mainstream  Inclusion Mainstream 
+Levels: GenEd Inclusion Mainstream
+[1] "K means cross validation - 25 v 36"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 25, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 25, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+ ( 15 22 10 )
+
+
+Number of Classes:  3 
+
+Levels: 
+ GenEd Inclusion Mainstream
+
+25-fold cross-validation on training data:
+
+Total Accuracy: 72.13115 
+Single Accuracies:
+ 100 100 100 50 33.33333 100 66.66667 100 50 33.33333 50 66.66667 50 100 50 66.66667 50 50 66.66667 50 100 50 100 100 100 
+
+
+
+         1          2          3          4          5          6          7 
+ Inclusion Mainstream Mainstream  Inclusion  Inclusion  Inclusion      GenEd 
+         8          9         10         11         12         13         14 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion 
+        15         16         17         18         19         20         21 
+Mainstream  Inclusion Mainstream      GenEd Mainstream      GenEd  Inclusion 
+        22         23         24         25         26         27         28 
+     GenEd      GenEd      GenEd Mainstream  Inclusion      GenEd  Inclusion 
+        29         30         31         32         33         34         35 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion 
+        36         37         38         39         40         41         42 
+Mainstream  Inclusion Mainstream      GenEd  Inclusion  Inclusion Mainstream 
+        43         44         45         46         47         48         49 
+Mainstream Mainstream Mainstream Mainstream      GenEd      GenEd  Inclusion 
+        50         51         52         53         54         55         56 
+ Inclusion Mainstream Mainstream  Inclusion Mainstream Mainstream      GenEd 
+        57         58         59         60         61 
+Mainstream      GenEd Mainstream  Inclusion Mainstream 
+Levels: GenEd Inclusion Mainstream
+[1] "K means cross validation - 20 v 41"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 20, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 20, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+ ( 15 22 10 )
+
+
+Number of Classes:  3 
+
+Levels: 
+ GenEd Inclusion Mainstream
+
+20-fold cross-validation on training data:
+
+Total Accuracy: 73.77049 
+Single Accuracies:
+ 100 66.66667 66.66667 100 100 66.66667 66.66667 100 100 66.66667 66.66667 100 100 33.33333 100 66.66667 33.33333 66.66667 66.66667 25 
+
+
+
+         1          2          3          4          5          6          7 
+ Inclusion Mainstream Mainstream  Inclusion  Inclusion  Inclusion      GenEd 
+         8          9         10         11         12         13         14 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion 
+        15         16         17         18         19         20         21 
+Mainstream  Inclusion Mainstream      GenEd Mainstream      GenEd  Inclusion 
+        22         23         24         25         26         27         28 
+     GenEd      GenEd      GenEd Mainstream  Inclusion      GenEd  Inclusion 
+        29         30         31         32         33         34         35 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion 
+        36         37         38         39         40         41         42 
+Mainstream  Inclusion Mainstream      GenEd  Inclusion  Inclusion Mainstream 
+        43         44         45         46         47         48         49 
+Mainstream Mainstream Mainstream Mainstream      GenEd      GenEd  Inclusion 
+        50         51         52         53         54         55         56 
+ Inclusion Mainstream Mainstream  Inclusion Mainstream Mainstream      GenEd 
+        57         58         59         60         61 
+Mainstream      GenEd Mainstream  Inclusion Mainstream 
+Levels: GenEd Inclusion Mainstream
+[1] "K means cross validation - 15 v 46"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 15, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 15, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+ ( 15 22 10 )
+
+
+Number of Classes:  3 
+
+Levels: 
+ GenEd Inclusion Mainstream
+
+15-fold cross-validation on training data:
+
+Total Accuracy: 72.13115 
+Single Accuracies:
+ 100 100 25 50 100 75 100 75 75 50 25 75 100 75 60 
+
+
+
+         1          2          3          4          5          6          7 
+ Inclusion Mainstream Mainstream  Inclusion  Inclusion  Inclusion      GenEd 
+         8          9         10         11         12         13         14 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion 
+        15         16         17         18         19         20         21 
+Mainstream  Inclusion Mainstream      GenEd Mainstream      GenEd  Inclusion 
+        22         23         24         25         26         27         28 
+     GenEd      GenEd      GenEd Mainstream  Inclusion      GenEd  Inclusion 
+        29         30         31         32         33         34         35 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion 
+        36         37         38         39         40         41         42 
+Mainstream  Inclusion Mainstream      GenEd  Inclusion  Inclusion Mainstream 
+        43         44         45         46         47         48         49 
+Mainstream Mainstream Mainstream Mainstream      GenEd      GenEd  Inclusion 
+        50         51         52         53         54         55         56 
+ Inclusion Mainstream Mainstream  Inclusion Mainstream Mainstream      GenEd 
+        57         58         59         60         61 
+Mainstream      GenEd Mainstream  Inclusion Mainstream 
+Levels: GenEd Inclusion Mainstream
+[1] "K means cross validation - 10 v 51"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 10, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 10, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+ ( 15 22 10 )
+
+
+Number of Classes:  3 
+
+Levels: 
+ GenEd Inclusion Mainstream
+
+10-fold cross-validation on training data:
+
+Total Accuracy: 73.77049 
+Single Accuracies:
+ 50 83.33333 66.66667 83.33333 83.33333 100 50 66.66667 100 57.14286 
+
+
+
+         1          2          3          4          5          6          7 
+ Inclusion Mainstream Mainstream  Inclusion  Inclusion  Inclusion      GenEd 
+         8          9         10         11         12         13         14 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion 
+        15         16         17         18         19         20         21 
+Mainstream  Inclusion Mainstream      GenEd Mainstream      GenEd  Inclusion 
+        22         23         24         25         26         27         28 
+     GenEd      GenEd      GenEd Mainstream  Inclusion      GenEd  Inclusion 
+        29         30         31         32         33         34         35 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion 
+        36         37         38         39         40         41         42 
+Mainstream  Inclusion Mainstream      GenEd  Inclusion  Inclusion Mainstream 
+        43         44         45         46         47         48         49 
+Mainstream Mainstream Mainstream Mainstream      GenEd      GenEd  Inclusion 
+        50         51         52         53         54         55         56 
+ Inclusion Mainstream Mainstream  Inclusion Mainstream Mainstream      GenEd 
+        57         58         59         60         61 
+Mainstream      GenEd Mainstream  Inclusion Mainstream 
+Levels: GenEd Inclusion Mainstream
+[1] "K means cross validation - 5 v 56"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 5, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 5, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+ ( 15 22 10 )
+
+
+Number of Classes:  3 
+
+Levels: 
+ GenEd Inclusion Mainstream
+
+5-fold cross-validation on training data:
+
+Total Accuracy: 68.85246 
+Single Accuracies:
+ 83.33333 50 75 58.33333 76.92308 
+
+
+
+         1          2          3          4          5          6          7 
+ Inclusion Mainstream Mainstream  Inclusion  Inclusion  Inclusion      GenEd 
+         8          9         10         11         12         13         14 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion 
+        15         16         17         18         19         20         21 
+Mainstream  Inclusion Mainstream      GenEd Mainstream      GenEd  Inclusion 
+        22         23         24         25         26         27         28 
+     GenEd      GenEd      GenEd Mainstream  Inclusion      GenEd  Inclusion 
+        29         30         31         32         33         34         35 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion 
+        36         37         38         39         40         41         42 
+Mainstream  Inclusion Mainstream      GenEd  Inclusion  Inclusion Mainstream 
+        43         44         45         46         47         48         49 
+Mainstream Mainstream Mainstream Mainstream      GenEd      GenEd  Inclusion 
+        50         51         52         53         54         55         56 
+ Inclusion Mainstream Mainstream  Inclusion Mainstream Mainstream      GenEd 
+        57         58         59         60         61 
+Mainstream      GenEd Mainstream  Inclusion Mainstream 
+Levels: GenEd Inclusion Mainstream
+[1] "K means cross validation - 3 v 58"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 3, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, 
+    data = na.omit(merged_data), kernel = "polynomial", cross = 3, 
+    probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+      gamma:  0.2 
+     coef.0:  0 
+
+Number of Support Vectors:  47
+
+ ( 15 22 10 )
+
+
+Number of Classes:  3 
+
+Levels: 
+ GenEd Inclusion Mainstream
+
+3-fold cross-validation on training data:
+
+Total Accuracy: 70.4918 
+Single Accuracies:
+ 65 80 66.66667 
+
+
+
+         1          2          3          4          5          6          7 
+ Inclusion Mainstream Mainstream  Inclusion  Inclusion  Inclusion      GenEd 
+         8          9         10         11         12         13         14 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion 
+        15         16         17         18         19         20         21 
+Mainstream  Inclusion Mainstream      GenEd Mainstream      GenEd  Inclusion 
+        22         23         24         25         26         27         28 
+     GenEd      GenEd      GenEd Mainstream  Inclusion      GenEd  Inclusion 
+        29         30         31         32         33         34         35 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion 
+        36         37         38         39         40         41         42 
+Mainstream  Inclusion Mainstream      GenEd  Inclusion  Inclusion Mainstream 
+        43         44         45         46         47         48         49 
+Mainstream Mainstream Mainstream Mainstream      GenEd      GenEd  Inclusion 
+        50         51         52         53         54         55         56 
+ Inclusion Mainstream Mainstream  Inclusion Mainstream Mainstream      GenEd 
+        57         58         59         60         61 
+Mainstream      GenEd Mainstream  Inclusion Mainstream 
+Levels: GenEd Inclusion Mainstream

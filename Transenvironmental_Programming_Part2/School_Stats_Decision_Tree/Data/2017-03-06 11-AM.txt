@@ -1,0 +1,331 @@
+[1] "2017-03-06 11:20:47 MST"
+[1] "K means cross validation - 30 v 31"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 30, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 30, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+ ( 15 16 )
+
+
+Number of Classes:  2 
+
+Levels: 
+ Inclusion Mainstream 
+
+30-fold cross-validation on training data:
+
+Total Accuracy: 85.71429 
+Single Accuracies:
+ 100 66.66667 66.66667 100 66.66667 100 100 100 66.66667 100 66.66667 100 100 100 75 100 66.66667 100 75 100 0 66.66667 100 100 100 100 100 66.66667 100 75 
+
+
+
+         1          2          3          4          5          6          7          8          9         10 
+ Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion Mainstream Mainstream 
+        11         12         13         14         15         16         17         18         19         20 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion Mainstream  Inclusion 
+        21         22         23         24         25         26         27         28         29         30 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion  Inclusion 
+        31         32         33         34         35         36         37         38         39         40 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion  Inclusion 
+        41         42         43         44         45         46         47         48         49         50 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        52         53         54         55         56         57         58         59         60         61 
+ Inclusion Mainstream  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream  Inclusion Mainstream 
+        62         63         64         65         66         67         68         69         70         71 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion 
+        72         73         76         77         78         79         80         81         82         83 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        84         85         86         87         88         89         90         91         92         93 
+Mainstream Mainstream  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream 
+        94         95         96         97         98         99        100        101 
+ Inclusion  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream 
+Levels: Inclusion Mainstream 
+[1] "K means cross validation - 20 v 41"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 20, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 20, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+ ( 15 16 )
+
+
+Number of Classes:  2 
+
+Levels: 
+ Inclusion Mainstream 
+
+20-fold cross-validation on training data:
+
+Total Accuracy: 85.71429 
+Single Accuracies:
+ 100 80 60 100 100 100 100 60 80 60 100 80 80 80 100 80 100 80 100 80 
+
+
+
+         1          2          3          4          5          6          7          8          9         10 
+ Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion Mainstream Mainstream 
+        11         12         13         14         15         16         17         18         19         20 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion Mainstream  Inclusion 
+        21         22         23         24         25         26         27         28         29         30 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion  Inclusion 
+        31         32         33         34         35         36         37         38         39         40 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion  Inclusion 
+        41         42         43         44         45         46         47         48         49         50 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        52         53         54         55         56         57         58         59         60         61 
+ Inclusion Mainstream  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream  Inclusion Mainstream 
+        62         63         64         65         66         67         68         69         70         71 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion 
+        72         73         76         77         78         79         80         81         82         83 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        84         85         86         87         88         89         90         91         92         93 
+Mainstream Mainstream  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream 
+        94         95         96         97         98         99        100        101 
+ Inclusion  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream 
+Levels: Inclusion Mainstream 
+[1] "K means cross validation - 10 v 51"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 10, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 10, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+ ( 15 16 )
+
+
+Number of Classes:  2 
+
+Levels: 
+ Inclusion Mainstream 
+
+10-fold cross-validation on training data:
+
+Total Accuracy: 83.67347 
+Single Accuracies:
+ 88.88889 90 90 80 90 77.77778 80 70 80 90 
+
+
+
+         1          2          3          4          5          6          7          8          9         10 
+ Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion Mainstream Mainstream 
+        11         12         13         14         15         16         17         18         19         20 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion Mainstream  Inclusion 
+        21         22         23         24         25         26         27         28         29         30 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion  Inclusion 
+        31         32         33         34         35         36         37         38         39         40 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion  Inclusion 
+        41         42         43         44         45         46         47         48         49         50 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        52         53         54         55         56         57         58         59         60         61 
+ Inclusion Mainstream  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream  Inclusion Mainstream 
+        62         63         64         65         66         67         68         69         70         71 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion 
+        72         73         76         77         78         79         80         81         82         83 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        84         85         86         87         88         89         90         91         92         93 
+Mainstream Mainstream  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream 
+        94         95         96         97         98         99        100        101 
+ Inclusion  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream 
+Levels: Inclusion Mainstream 
+[1] "K means cross validation - 5 v 56"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 5, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 5, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+ ( 15 16 )
+
+
+Number of Classes:  2 
+
+Levels: 
+ Inclusion Mainstream 
+
+5-fold cross-validation on training data:
+
+Total Accuracy: 86.73469 
+Single Accuracies:
+ 89.47368 85 84.21053 90 85 
+
+
+
+         1          2          3          4          5          6          7          8          9         10 
+ Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion Mainstream Mainstream 
+        11         12         13         14         15         16         17         18         19         20 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion Mainstream  Inclusion 
+        21         22         23         24         25         26         27         28         29         30 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion  Inclusion 
+        31         32         33         34         35         36         37         38         39         40 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion  Inclusion 
+        41         42         43         44         45         46         47         48         49         50 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        52         53         54         55         56         57         58         59         60         61 
+ Inclusion Mainstream  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream  Inclusion Mainstream 
+        62         63         64         65         66         67         68         69         70         71 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion 
+        72         73         76         77         78         79         80         81         82         83 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        84         85         86         87         88         89         90         91         92         93 
+Mainstream Mainstream  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream 
+        94         95         96         97         98         99        100        101 
+ Inclusion  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream 
+Levels: Inclusion Mainstream 
+[1] "K means cross validation - 3 v 58"
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 3, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+
+Call:
+svm(formula = Outcome ~ Adaptive + FSIQ + WJIII + CBM + SocioEmotional, data = na.omit(merged_data), 
+    kernel = "linear", cross = 3, probability = TRUE)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+      gamma:  0.2 
+
+Number of Support Vectors:  31
+
+ ( 15 16 )
+
+
+Number of Classes:  2 
+
+Levels: 
+ Inclusion Mainstream 
+
+3-fold cross-validation on training data:
+
+Total Accuracy: 86.73469 
+Single Accuracies:
+ 84.375 78.78788 96.9697 
+
+
+
+         1          2          3          4          5          6          7          8          9         10 
+ Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion Mainstream Mainstream 
+        11         12         13         14         15         16         17         18         19         20 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion Mainstream  Inclusion 
+        21         22         23         24         25         26         27         28         29         30 
+Mainstream  Inclusion Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion  Inclusion 
+        31         32         33         34         35         36         37         38         39         40 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion  Inclusion  Inclusion  Inclusion 
+        41         42         43         44         45         46         47         48         49         50 
+Mainstream Mainstream Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        52         53         54         55         56         57         58         59         60         61 
+ Inclusion Mainstream  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream  Inclusion Mainstream 
+        62         63         64         65         66         67         68         69         70         71 
+Mainstream Mainstream Mainstream Mainstream  Inclusion Mainstream Mainstream Mainstream  Inclusion  Inclusion 
+        72         73         76         77         78         79         80         81         82         83 
+ Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream  Inclusion Mainstream 
+        84         85         86         87         88         89         90         91         92         93 
+Mainstream Mainstream  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream Mainstream 
+        94         95         96         97         98         99        100        101 
+ Inclusion  Inclusion  Inclusion  Inclusion  Inclusion Mainstream  Inclusion Mainstream 
+Levels: Inclusion Mainstream 
