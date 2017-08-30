@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  17 AUG 2017 12:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 AUG 2017 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,6 +447,88 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \TX@cols=\count313
 \TX@ftn=\toks20
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -586,6 +668,40 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@authors=\count333
 \c@affil=\count334
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count335
+\lst@gtempboxa=\box36
+\lst@token=\toks25
+\lst@length=\count336
+\lst@currlwidth=\dimen147
+\lst@column=\count337
+\lst@pos=\count338
+\lst@lostspace=\dimen148
+\lst@width=\dimen149
+\lst@newlines=\count339
+\lst@lineno=\count340
+\lst@maxwidth=\dimen150
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count341
+\lst@skipnumbers=\count342
+\lst@framebox=\box37
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
 
@@ -610,25 +726,32 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
 (./TransenvironmentalProgramming.aux)
 \openout1 = `TransenvironmentalProgramming.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Try loading font information for OT1+pbk on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 83.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Try loading font information for OT1+pbk on input line 83.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pbk.fd
 File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
 )
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 55.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 83.
 Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
@@ -639,24 +762,25 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'TransenvironmentalProgramming.bbl' found.
 
 (./TransenvironmentalProgramming.bbl)
-Package biblatex Info: Reference section=0 on input line 55.
-Package biblatex Info: Reference segment=0 on input line 55.
+Package biblatex Info: Reference section=0 on input line 83.
+Package biblatex Info: Reference segment=0 on input line 83.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
-\scratchdimen=\dimen147
-\scratchbox=\box36
-\nofMPsegments=\count336
-\nofMParguments=\count337
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count338
-\MPscratchDim=\dimen148
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count343
+\scratchdimen=\dimen151
+\scratchbox=\box38
+\nofMPsegments=\count344
+\nofMParguments=\count345
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count346
+\MPscratchDim=\dimen152
+\MPnumerator=\count347
+\makeMPintoPDFobject=\count348
+\everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -677,7 +801,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box37
+\AtBeginShipoutBox=\box39
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -717,137 +841,139 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\c@lstlisting=\count349
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 57.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <12> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 57.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 57.
+(Font)              <12> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 57.
+(Font)              <8> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 57.
+(Font)              <6> on input line 85.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <8> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 57.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <9> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 59.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <9> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 59.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <9> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 59.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <9> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 59.
-LaTeX Font Info:    Try loading font information for OML+pbk on input line 59.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 88.
+LaTeX Font Info:    Try loading font information for OML+pbk on input line 88.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlpbk.fd
 File: omlpbk.fd 
 )
 LaTeX Font Info:    Font shape `OML/pbk/m/n' in size <9> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 59.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 62.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 62.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 62.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 91.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 65.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 94.
 Missing character: There is no Â in font pbkli7t!
 Missing character: There is no § in font pbkli7t!
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <10> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 83.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 112.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <10> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 83.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 112.
  [2] [3]
+Overfull \hbox (1.45845pt too wide) in paragraph at lines 134--134
+[]\OT1/pbk/db/n/14.4 Experiment 1 - Ap-pli-ca-tion of Transen-vi-ron-men-tal Pr
+o-
+ []
+
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <12> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 107.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 136.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <12> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 107.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 136.
 Missing character: There is no â in font pbkl7t!
 Missing character: There is no € in font pbkl7t!
 Missing character: There is no “ in font pbkl7t!
-
-<Figure1.pdf, id=16, 758.835pt x 578.16pt>
+[4] <Figure1.pdf, id=19, 758.835pt x 578.16pt>
 File: Figure1.pdf Graphic file (type pdf)
  <use Figure1.pdf>
-Package pdftex.def Info: Figure1.pdf used on input line 126.
+Package pdftex.def Info: Figure1.pdf used on input line 155.
 (pdftex.def)             Requested size: 430.00462pt x 327.63142pt.
- [4] [5 <./Figure1.pdf>]
-LaTeX Font Info:    Try loading font information for OMS+pbk on input line 150.
 
- (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omspbk.fd
-File: omspbk.fd 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./Figure1.pdf>]
+LaTeX Font Info:    Try loading font information for TS1+pbk on input line 179.
+
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1pbk.fd
+File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
-LaTeX Font Info:    Font shape `OMS/pbk/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
- [6]
-[7] [8] [9] <Yerkes-Dodson.pdf, id=91, 794.97pt x 614.295pt>
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 179.
+
+[6] [7] [8] [9] [10] <Yerkes-Dodson.pdf, id=93, 794.97pt x 614.295pt>
 File: Yerkes-Dodson.pdf Graphic file (type pdf)
 
 <use Yerkes-Dodson.pdf>
-Package pdftex.def Info: Yerkes-Dodson.pdf used on input line 222.
+Package pdftex.def Info: Yerkes-Dodson.pdf used on input line 251.
 (pdftex.def)             Requested size: 430.00462pt x 332.28613pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 223.
+(Font)              <7> on input line 252.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 223.
+(Font)              <5> on input line 252.
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <7> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 223.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 252.
 LaTeX Font Info:    Font shape `OML/pbk/m/it' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 223.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 252.
 LaTeX Font Info:    Font shape `OML/pbk/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 350.
- [10] [11 <./Yerkes-Dodson.pdf, page is rotated 270 degrees>]
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 379.
+ [11 <./Yerkes-Dodson.pdf, page is rotated 270 degrees>]
 Underfull \vbox (badness 4531) has occurred while \output is active []
 
  [12]
-[13] [14] [15]
-Overfull \hbox (18.16325pt too wide) in paragraph at lines 413--414
-\OT1/pbk/l/n/10 dent suc-cess, and class-room be-hav-ior were also col-lected b
-y a dis-trict fa-cil-i-ta-tor/coordinator.
- []
-
-[16] <BehaviorPipeline.pdf, id=143, 758.835pt x 578.16pt>
+[13] [14] [15] [16] <BehaviorPipeline.pdf, id=142, 758.835pt x 578.16pt>
 File: BehaviorPipeline.pdf Graphic file (type pdf)
 
 <use BehaviorPipeline.pdf>
-Package pdftex.def Info: BehaviorPipeline.pdf used on input line 437.
+Package pdftex.def Info: BehaviorPipeline.pdf used on input line 466.
 (pdftex.def)             Requested size: 430.00462pt x 327.63142pt.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <7> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 456.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 485.
  [17] [18 <./BehaviorPipeline.pdf>]
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <7> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 466.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 495.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <7> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 466.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 495.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <5> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 485.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 514.
  [19]
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <5> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 500.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 529.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <5> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 530.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 559.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <5> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 530.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 559.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/it' in size <5> not available
-(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 530.
+(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 559.
 LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <5> not available
-(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 530.
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 559.
 
 
 
 LaTeX Font Warning: Font shape `OML/pbk/bx/n' undefined
 (Font)              using `OML/pbk/m/it' instead
-(Font)              for symbol `textgreater' on input line 533.
+(Font)              for symbol `textgreater' on input line 562.
 
 LaTeX Font Info:    Font shape `OML/pbk/m/it' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 533.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 562.
 LaTeX Font Info:    Font shape `OML/pbk/m/n' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 534.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 563.
 LaTeX Font Info:    Font shape `OML/pbk/bx/n' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 537.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 566.
 [20
 
 ] [21
@@ -858,1465 +984,1514 @@ LaTeX Font Info:    Font shape `OML/pbk/bx/n' in size <5> not available
 ] [25] [26
 
 ] [27]
-Overfull \hbox (2.81364pt too wide) in paragraph at lines 827--828
+Overfull \hbox (2.81364pt too wide) in paragraph at lines 856--857
 []\OT1/pbk/l/n/10 Based upon the cur-rent re-sults, the pi-lot im-ple-men-ta-ti
 on of the \OT1/pbk/l/it/10 Main-stream-ing Pipeline
  []
 
-[28] [29]
-Overfull \hbox (3.89023pt too wide) in paragraph at lines 833--833
+[28]
+Overfull \hbox (61.2793pt too wide) in paragraph at lines 882--893
+ [][] 
+ []
+
+
+Overfull \hbox (1.03923pt too wide) in paragraph at lines 904--905
+\OT1/pbk/l/n/10 data, Re-cur-sive Par-ti-tion-ing and Re-gres-sion Trees (rpart
+) anal-y-ses were per-formed. These
+ []
+
+[29]
+LaTeX Font Info:    Font shape `OML/pbk/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 912.
+ [30]
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 941.
+ [31]
+<RegressionTree_NOAcademics.png, id=245, 767.86874pt x 460.72125pt>
+File: RegressionTree_NOAcademics.png Graphic file (type png)
+
+<use RegressionTree_NOAcademics.png>
+Package pdftex.def Info: RegressionTree_NOAcademics.png used on input line 998.
+
+(pdftex.def)             Requested size: 430.00462pt x 258.00917pt.
+File: RegressionTree_NOAcademics.png Graphic file (type png)
+ <use RegressionTree_NOAcademics.png>
+Package pdftex.def Info: RegressionTree_NOAcademics.png used on input line 1020
+.
+(pdftex.def)             Requested size: 430.00462pt x 258.00917pt.
+
+<Heatmap_Overall.png, id=247, 501.5538pt x 953.2413pt>
+File: Heatmap_Overall.png Graphic file (type png)
+
+<use Heatmap_Overall.png>
+Package pdftex.def Info: Heatmap_Overall.png used on input line 1048.
+(pdftex.def)             Requested size: 430.0192pt x 556.5021pt.
+
+
+LaTeX Warning: Float too large for page by 22.02554pt on input line 1051.
+
+
+Overfull \hbox (61.73105pt too wide) in paragraph at lines 1074--1084
+ [][] 
+ []
+
+
+Overfull \hbox (118.14497pt too wide) in paragraph at lines 1103--1115
+ [][] 
+ []
+
+[32] [33 <./RegressionTree_NOAcademics.png>] [34] [35 <./Heatmap_Overall.png>]
+[36] [37] [38]
+Overfull \hbox (3.89023pt too wide) in paragraph at lines 1134--1134
 [][]\OT1/pbk/l/n/10 Fuchs, D., Mock, D., Mor-gan, P. L., & Young, C. L. (2003).
  Responsiveness-to-intervention:
  []
 
-[30] [31]
-Overfull \hbox (25.84035pt too wide) in paragraph at lines 833--833
+[39] [40]
+Overfull \hbox (25.84035pt too wide) in paragraph at lines 1134--1134
 \OT1/pbk/l/n/10 1177 / 019874299301800408$. eprint: $http : / / dx . doi . org 
 / 10 . 1177 / 019874299301800408$ 
  []
 
-[32]
+[41]
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <20.74> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 835.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 1136.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 835.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 1136.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <20.74> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 835.
- <DecisionTree.pdf, id=247, 758.835pt x 578.16pt>
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 1136.
+
+ <DecisionTree.pdf, id=282, 758.835pt x 578.16pt>
 File: DecisionTree.pdf Graphic file (type pdf)
  <use DecisionTree.pdf>
-Package pdftex.def Info: DecisionTree.pdf used on input line 842.
+Package pdftex.def Info: DecisionTree.pdf used on input line 1143.
 (pdftex.def)             Requested size: 758.83316pt x 578.15858pt.
 File: DecisionTree.pdf Graphic file (type pdf)
 
 <use DecisionTree.pdf>
-Package pdftex.def Info: DecisionTree.pdf used on input line 842.
+Package pdftex.def Info: DecisionTree.pdf used on input line 1143.
 (pdftex.def)             Requested size: 758.83316pt x 578.15858pt.
 
-<DecisionTree.pdf, id=250, page=1, 758.835pt x 578.16pt>
+<DecisionTree.pdf, id=285, page=1, 758.835pt x 578.16pt>
 File: DecisionTree.pdf Graphic file (type pdf)
 
 <use DecisionTree.pdf, page 1>
-Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 842.
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 1143.
 (pdftex.def)             Requested size: 758.83316pt x 578.15858pt.
 File: DecisionTree.pdf Graphic file (type pdf)
  <use DecisionTree.pdf, page 1>
-Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 842.
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 1143.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
- [33
+ [42
 
 ]
 File: DecisionTree.pdf Graphic file (type pdf)
 
 <use DecisionTree.pdf, page 1>
-Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 842.
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 1143.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
 File: DecisionTree.pdf Graphic file (type pdf)
  <use DecisionTree.pdf, page 1>
-Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 842.
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 1143.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
 File: DecisionTree.pdf Graphic file (type pdf)
 
 <use DecisionTree.pdf, page 1>
-Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 842.
+Package pdftex.def Info: DecisionTree.pdf, page1 used on input line 1143.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
- [34 <./DecisionTree.pdf>]
+ [43 <./DecisionTree.pdf>]
 File: BehaviorPipeline.pdf Graphic file (type pdf)
 
 <use BehaviorPipeline.pdf>
-Package pdftex.def Info: BehaviorPipeline.pdf used on input line 844.
+Package pdftex.def Info: BehaviorPipeline.pdf used on input line 1145.
 (pdftex.def)             Requested size: 758.83316pt x 578.15858pt.
 File: BehaviorPipeline.pdf Graphic file (type pdf)
  <use BehaviorPipeline.pdf>
-Package pdftex.def Info: BehaviorPipeline.pdf used on input line 844.
+Package pdftex.def Info: BehaviorPipeline.pdf used on input line 1145.
 (pdftex.def)             Requested size: 758.83316pt x 578.15858pt.
 
-<BehaviorPipeline.pdf, id=313, page=1, 758.835pt x 578.16pt>
+<BehaviorPipeline.pdf, id=349, page=1, 758.835pt x 578.16pt>
 File: BehaviorPipeline.pdf Graphic file (type pdf)
 
 <use BehaviorPipeline.pdf, page 1>
-Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 844.
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 1145.
 (pdftex.def)             Requested size: 758.83316pt x 578.15858pt.
 File: BehaviorPipeline.pdf Graphic file (type pdf)
  <use BehaviorPipeline.pdf, page 1>
-Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 844.
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 1145.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
 File: BehaviorPipeline.pdf Graphic file (type pdf)
 
 <use BehaviorPipeline.pdf, page 1>
-Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 844.
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 1145.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
 File: BehaviorPipeline.pdf Graphic file (type pdf)
  <use BehaviorPipeline.pdf, page 1>
-Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 844.
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 1145.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
 File: BehaviorPipeline.pdf Graphic file (type pdf)
 
 <use BehaviorPipeline.pdf, page 1>
-Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 844.
+Package pdftex.def Info: BehaviorPipeline.pdf, page1 used on input line 1145.
 (pdftex.def)             Requested size: 795.83923pt x 606.35368pt.
- [35 <./BehaviorPipeline.pdf>]
-<MainstreamingPlan.pdf, id=366, 614.295pt x 794.97pt>
+ [44 <./BehaviorPipeline.pdf>]
+<MainstreamingPlan.pdf, id=402, 614.295pt x 794.97pt>
 File: MainstreamingPlan.pdf Graphic file (type pdf)
 
 <use MainstreamingPlan.pdf>
-Package pdftex.def Info: MainstreamingPlan.pdf used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf used on input line 1147.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
  <use MainstreamingPlan.pdf>
-Package pdftex.def Info: MainstreamingPlan.pdf used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf used on input line 1147.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
 
 <use MainstreamingPlan.pdf>
-Package pdftex.def Info: MainstreamingPlan.pdf used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf used on input line 1147.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<MainstreamingPlan.pdf, id=370, page=1, 614.295pt x 794.97pt>
+<MainstreamingPlan.pdf, id=406, page=1, 614.295pt x 794.97pt>
 File: MainstreamingPlan.pdf Graphic file (type pdf)
 
 <use MainstreamingPlan.pdf, page 1>
-Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 1147.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
  <use MainstreamingPlan.pdf, page 1>
-Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 1147.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
 
 <use MainstreamingPlan.pdf, page 1>
-Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 1147.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
  <use MainstreamingPlan.pdf, page 1>
-Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 1147.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
 
 <use MainstreamingPlan.pdf, page 1>
-Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page1 used on input line 1147.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [36 <./MainstreamingPlan.pdf>]
-<MainstreamingPlan.pdf, id=389, page=2, 614.295pt x 794.97pt>
+ [45 <./MainstreamingPlan.pdf>]
+<MainstreamingPlan.pdf, id=426, page=2, 614.295pt x 794.97pt>
 File: MainstreamingPlan.pdf Graphic file (type pdf)
 
 <use MainstreamingPlan.pdf, page 2>
-Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 1147.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
  <use MainstreamingPlan.pdf, page 2>
-Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 1147.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: MainstreamingPlan.pdf Graphic file (type pdf)
 
 <use MainstreamingPlan.pdf, page 2>
-Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 846.
+Package pdftex.def Info: MainstreamingPlan.pdf, page2 used on input line 1147.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [37 <./MainstreamingPlan.pdf>] [38
+ [46 <./MainstreamingPlan.pdf>] [47
 
 ]
-<ClassroomEcologicalInventory.pdf, id=400, 614.295pt x 794.97pt>
+<ClassroomEcologicalInventory.pdf, id=436, 614.295pt x 794.97pt>
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 84
-9.
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 11
+50.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
  <use ClassroomEcologicalInventory.pdf>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 84
-9.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
-
-<use ClassroomEcologicalInventory.pdf>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 84
-9.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
- <use ClassroomEcologicalInventory.pdf>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 84
-9.
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 11
+50.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 84
-9.
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 11
+50.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
  <use ClassroomEcologicalInventory.pdf>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 84
-9.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-<ClassroomEcologicalInventory.pdf, id=407, page=1, 614.295pt x 794.97pt>
-File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
-
-<use ClassroomEcologicalInventory.pdf, page 1>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
-line 849.
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 11
+50.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
+<use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 11
+50.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+ <use ClassroomEcologicalInventory.pdf>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf used on input line 11
+50.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<ClassroomEcologicalInventory.pdf, id=443, page=1, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
 <use ClassroomEcologicalInventory.pdf, page 1>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
-line 849.
+line 1150.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 1>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 1>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 1>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 1>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page1 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [39
+ [48
 
  <./ClassroomEcologicalInventory.pdf>]
-<ClassroomEcologicalInventory.pdf, id=430, page=2, 614.295pt x 794.97pt>
+<ClassroomEcologicalInventory.pdf, id=465, page=2, 614.295pt x 794.97pt>
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 2>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page2 used on input 
-line 849.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
-
-<use ClassroomEcologicalInventory.pdf, page 2>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page2 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 2>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page2 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [40 <./ClassroomEcologicalInventory.pdf>]
-<ClassroomEcologicalInventory.pdf, id=435, page=3, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 2>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page2 used on input 
+line 1150.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [49 <./ClassroomEcologicalInventory.pdf>]
+<ClassroomEcologicalInventory.pdf, id=471, page=3, 614.295pt x 794.97pt>
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 3>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page3 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 3>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page3 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 3>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page3 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [41 <./ClassroomEcologicalInventory.pdf>]
-<ClassroomEcologicalInventory.pdf, id=448, page=4, 614.295pt x 794.97pt>
+ [50 <./ClassroomEcologicalInventory.pdf>]
+<ClassroomEcologicalInventory.pdf, id=484, page=4, 614.295pt x 794.97pt>
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 4>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page4 used on input 
-line 849.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
-
-<use ClassroomEcologicalInventory.pdf, page 4>
-Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page4 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 4>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page4 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [42 <./ClassroomEcologicalInventory.pdf>]
-<ClassroomEcologicalInventory.pdf, id=453, page=5, 614.295pt x 794.97pt>
+File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
+
+<use ClassroomEcologicalInventory.pdf, page 4>
+Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page4 used on input 
+line 1150.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [51 <./ClassroomEcologicalInventory.pdf>]
+<ClassroomEcologicalInventory.pdf, id=489, page=5, 614.295pt x 794.97pt>
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 5>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page5 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 5>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page5 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: ClassroomEcologicalInventory.pdf Graphic file (type pdf)
 
 <use ClassroomEcologicalInventory.pdf, page 5>
 Package pdftex.def Info: ClassroomEcologicalInventory.pdf, page5 used on input 
-line 849.
+line 1150.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [43 <./ClassroomEcologicalInventory.pdf>] [44
+ [52 <./ClassroomEcologicalInventory.pdf>] [53
 
-] <BehavioralFirstAidKit.pdf, id=462, 614.295pt x 794.97pt>
+] <BehavioralFirstAidKit.pdf, id=497, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf used on input line 852.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf used on input line 1153.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
  <use BehavioralFirstAidKit.pdf>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf used on input line 852.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf used on input line 1153.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<BehavioralFirstAidKit.pdf, id=465, page=1, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=500, page=1, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf, page 1>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 85
-2.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf, page 1>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 85
-2.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf, page 1>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 85
-2.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf, page 1>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 85
-2.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf, page 1>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 85
-2.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page1 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [45
+ [54
 
  <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=487, page=2, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=522, page=2, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf, page 2>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 2>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 85
-2.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
 <use BehavioralFirstAidKit.pdf, page 2>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [46 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=491, page=3, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 3>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 85
-2.
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 3>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 3>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [47 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=495, page=4, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 4>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 4>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 4>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [48 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=499, page=5, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 5>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 5>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 5>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [49 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=504, page=6, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 6>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 6>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 6>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [50 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=508, page=7, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 7>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 7>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 7>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [51 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=512, page=8, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 8>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 8>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 8>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [52 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=516, page=9, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 9>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 9>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 9>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 85
-2.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [53 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=520, page=10, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 10>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 8
-52.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 10>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 8
-52.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 10>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 8
-52.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [54 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=524, page=11, 614.295pt x 794.97pt>
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 11>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 8
-52.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 11>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 8
-52.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
-
-<use BehavioralFirstAidKit.pdf, page 11>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 2>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page2 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [55 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=529, page=12, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=527, page=3, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 12>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 3>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 12>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 3>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 12>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 3>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page3 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [56 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=533, page=13, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=531, page=4, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 13>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 4>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 13>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 4>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 13>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 4>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page4 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [57 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=537, page=14, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=535, page=5, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 14>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 5>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 14>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 5>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 14>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 5>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page5 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [58 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=550, page=15, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=539, page=6, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 15>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 6>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 15>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 6>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 15>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 6>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page6 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [59 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=563, page=16, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=543, page=7, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 16>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 7>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 16>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 7>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 16>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 7>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page7 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [60 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=574, page=17, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=547, page=8, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 17>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 8>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 17>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 8>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 17>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 8>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page8 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [61 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=587, page=18, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=552, page=9, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 18>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 9>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 18>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 9>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 18>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 9>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page9 used on input line 11
+53.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [62 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=597, page=19, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=556, page=10, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 19>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 10>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 19>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 10>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 19>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 10>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page10 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [63 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=607, page=20, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=560, page=11, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 20>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 11>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 20>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 11>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 20>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 11>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page11 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [64 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=617, page=21, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=564, page=12, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 21>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 12>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 21>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 12>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 21>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 12>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page12 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [65 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=627, page=22, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=568, page=13, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 22>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 13>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 22>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 13>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 22>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 13>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page13 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [66 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=644, page=23, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=572, page=14, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 23>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 14>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 23>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 14>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 23>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 14>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page14 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [67 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=655, page=24, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=586, page=15, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 24>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 15>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 24>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 15>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 24>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 15>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page15 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [68 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=665, page=25, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=600, page=16, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 25>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 16>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 25>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 16>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 25>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 16>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page16 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [69 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=675, page=26, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=611, page=17, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 26>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 17>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 26>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 17>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 26>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 17>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page17 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [70 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=685, page=27, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=622, page=18, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 27>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 18>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 27>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 18>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 27>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 18>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page18 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [71 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=695, page=28, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=632, page=19, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 28>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 19>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 28>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 19>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 28>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 19>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page19 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [72 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=705, page=29, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=642, page=20, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 29>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 20>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 29>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 20>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 29>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 20>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page20 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [73 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=716, page=30, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=653, page=21, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 30>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 21>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 30>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 21>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 30>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 21>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page21 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [74 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=726, page=31, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=663, page=22, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 31>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 22>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 31>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 22>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 31>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 22>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page22 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [75 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=736, page=32, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=680, page=23, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 32>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 23>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 32>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 23>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 32>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 23>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page23 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [76 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=746, page=33, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=690, page=24, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 33>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 24>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 33>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 24>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 33>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 24>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page24 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [77 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=757, page=34, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=700, page=25, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 34>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 25>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 34>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 25>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 34>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 25>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page25 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [78 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=767, page=35, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=710, page=26, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 35>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 26>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 35>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 26>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 35>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 26>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page26 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [79 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=778, page=36, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=721, page=27, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 36>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 27>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 36>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 27>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 36>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 27>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page27 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [80 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=788, page=37, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=731, page=28, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 37>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 28>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 37>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 28>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 37>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 28>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page28 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [81 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=798, page=38, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=741, page=29, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 38>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 29>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 38>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 29>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 38>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 29>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page29 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [82 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=808, page=39, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=751, page=30, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 39>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 30>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 39>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 30>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 39>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 30>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page30 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [83 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=818, page=40, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=762, page=31, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 40>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 31>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 40>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 31>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 40>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 31>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page31 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [84 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=828, page=41, 614.295pt x 794.97pt>
+<BehavioralFirstAidKit.pdf, id=772, page=32, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 41>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 32>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 41>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 32>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 41>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 32>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page32 used on input line 1
+153.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [85 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=839, page=42, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=783, page=33, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 42>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 33>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 42>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 33>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 42>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 33>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page33 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [86 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=849, page=43, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=793, page=34, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 43>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 34>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 43>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 34>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 43>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 34>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page34 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [87 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=859, page=44, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=803, page=35, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 44>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 35>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 44>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 35>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 44>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 35>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page35 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [88 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=869, page=45, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=813, page=36, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 45>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 36>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 45>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 36>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 45>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 36>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page36 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [89 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=879, page=46, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=823, page=37, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 46>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 37>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 46>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 37>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 46>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 37>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page37 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [90 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=889, page=47, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=833, page=38, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 47>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 38>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 47>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 38>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 47>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 38>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page38 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [91 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=900, page=48, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=844, page=39, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 48>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 39>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 48>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 39>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 48>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 39>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page39 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [92 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=910, page=49, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=854, page=40, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 49>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 40>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 49>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 40>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 49>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 40>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page40 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [93 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=920, page=50, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=864, page=41, 614.295pt x 794.97pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 50>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 41>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 50>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 41>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 50>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 8
-52.
-(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+<use BehavioralFirstAidKit.pdf, page 41>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page41 used on input line 1
+153.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [94 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=931, page=51, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=874, page=42, 794.97pt x 614.295pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 51>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 42>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 51>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 42>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 51>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 42>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page42 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
  [95 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=941, page=52, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=884, page=43, 794.97pt x 614.295pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 52>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 43>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 52>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 43>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 52>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 43>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page43 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
  [96 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=951, page=53, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=894, page=44, 794.97pt x 614.295pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 53>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 44>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 53>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 44>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 53>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 44>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page44 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
  [97 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=962, page=54, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=905, page=45, 794.97pt x 614.295pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 54>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 45>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 54>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 45>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 54>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 45>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page45 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
  [98 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=972, page=55, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=915, page=46, 794.97pt x 614.295pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 55>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 46>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 55>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 46>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 55>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 46>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page46 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
  [99 <./BehavioralFirstAidKit.pdf>]
-<BehavioralFirstAidKit.pdf, id=988, page=56, 794.97pt x 614.295pt>
+<BehavioralFirstAidKit.pdf, id=925, page=47, 794.97pt x 614.295pt>
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 56>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 47>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 56>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 47>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
 File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
 
-<use BehavioralFirstAidKit.pdf, page 56>
-Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 8
-52.
+<use BehavioralFirstAidKit.pdf, page 47>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page47 used on input line 1
+153.
 (pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
  [100 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=936, page=48, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 48>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 48>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 48>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page48 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [101 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=946, page=49, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 49>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 49>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 49>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page49 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [102 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=956, page=50, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 50>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 50>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 50>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page50 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [103 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=967, page=51, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 51>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 51>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 51>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page51 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [104 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=977, page=52, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 52>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 52>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 52>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page52 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [105 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=987, page=53, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 53>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 53>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 53>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page53 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [106 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=997, page=54, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 54>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 54>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 54>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page54 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [107 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1007, page=55, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 55>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 55>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 55>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page55 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [108 <./BehavioralFirstAidKit.pdf>]
+<BehavioralFirstAidKit.pdf, id=1023, page=56, 794.97pt x 614.295pt>
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 56>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 56>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+File: BehavioralFirstAidKit.pdf Graphic file (type pdf)
+
+<use BehavioralFirstAidKit.pdf, page 56>
+Package pdftex.def Info: BehavioralFirstAidKit.pdf, page56 used on input line 1
+153.
+(pdftex.def)             Requested size: 795.3441pt x 614.58406pt.
+ [109 <./BehavioralFirstAidKit.pdf>]
 (./TransenvironmentalProgramming.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'TransenvironmentalProgramming.run.xml
 '.
@@ -2324,27 +2499,29 @@ Package logreq Info: Writing requests to 'TransenvironmentalProgramming.run.xml
 
  ) 
 Here is how much of TeX's memory you used:
- 13610 strings out of 492995
- 236440 string characters out of 6132704
- 825360 words of memory out of 5000000
- 16933 multiletter control sequences out of 15000+600000
- 28368 words of font info for 64 fonts, out of 8000000 for 9000
+ 16158 strings out of 492995
+ 271594 string characters out of 6132704
+ 897801 words of memory out of 5000000
+ 19446 multiletter control sequences out of 15000+600000
+ 29002 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,18n,79p,2414b,1910s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,18n,79p,2398b,1915s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2017/te
-xmf-dist/fonts/type1/urw/bookman/ubkdi8a.pfb></usr/local/texlive/2017/texmf-dis
-t/fonts/type1/urw/bookman/ubkl8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/
-type1/urw/bookman/ubkli8a.pfb>
-Output written on TransenvironmentalProgramming.pdf (100 pages, 4273846 bytes).
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/urw/bookman/ubkdi8a.pfb></usr/local/texlive/2017/texmf-dist/fo
+nts/type1/urw/bookman/ubkl8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/urw/bookman/ubkli8a.pfb>
+Output written on TransenvironmentalProgramming.pdf (109 pages, 4724974 bytes).
 
 PDF statistics:
- 1029 PDF objects out of 1200 (max. 8388607)
- 592 compressed objects within 6 object streams
+ 1073 PDF objects out of 1200 (max. 8388607)
+ 620 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 500000)
- 436 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 446 words of extra memory for PDF output out of 10000 (max. 10000000)
 

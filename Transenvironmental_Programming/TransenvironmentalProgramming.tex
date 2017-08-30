@@ -19,6 +19,7 @@
 \usepackage{caption}
 \usepackage{blindtext}
 \usepackage{tabularx}
+\usepackage{textcomp}
 \usepackage{graphicx}
 \graphicspath{ {images/} }
 \usepackage[toc,page]{appendix}
@@ -26,12 +27,39 @@
 \usepackage{csquotes}
 \usepackage{setspace}
 \usepackage{geometry}
-\usepackage{xcolor}
 \usepackage{bookman} 
 \usepackage{endnotes}
 \usepackage{url}
 \usepackage{lscape}
 \usepackage{authblk}
+\usepackage{listings}
+\usepackage{color}
+\lstset{ %
+	language=R,                     % the language of the code
+	basicstyle=\footnotesize,       % the size of the fonts that are used for the code
+	numbers=left,                   % where to put the line-numbers
+	numberstyle=\tiny\color{gray},  % the style that is used for the line-numbers
+	stepnumber=1,                   % the step between two line-numbers. If it's 1, each line
+	% will be numbered
+	numbersep=5pt,                  % how far the line-numbers are from the code
+	backgroundcolor=\color{white},  % choose the background color. You must add \usepackage{color}
+	showspaces=false,               % show spaces adding particular underscores
+	showstringspaces=false,         % underline spaces within strings
+	showtabs=false,                 % show tabs within strings adding particular underscores
+	frame=single,                   % adds a frame around the code
+	rulecolor=\color{black},        % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. commens (green here))
+	tabsize=2,                      % sets default tabsize to 2 spaces
+	captionpos=b,                   % sets the caption-position to bottom
+	breaklines=true,                % sets automatic line breaking
+	breakatwhitespace=false,        % sets if automatic breaks should only happen at whitespace
+	title=\lstname,                 % show the filename of files included with \lstinputlisting;
+	% also try caption instead of title
+	keywordstyle=\color{blue!55!black},      % keyword style
+	commentstyle=\color{green!55!blue},   % comment style
+	stringstyle=\color{red!55!black},      % string literal style
+	escapeinside={\%*}{*)},         % if you want to add a comment within your code
+	morekeywords={*,...}            % if you want to add more keywords to the set
+} 
 \pagenumbering{gobble}
 \DeclareCaptionLabelFormat{adja-page}{\hrulefill\\#1 #2 \emph{(previous page)}}
 \DeclareCaptionFont{tiny}{\tiny}
@@ -41,7 +69,7 @@
   \def\baselinestretch{1}\@currsize}%
 \makeatother
 %
-\title{Development and Implementation of a Mainstreaming Process to Transition Students from Self-Contained Special Education into General Education Placements}
+\title{Development, Validation, and Implementation of a Mainstreaming Process to Transition Students from Self-Contained Special Education into General Education Placements}
 %\shorttitle{Mainstreaming Pipeline}
 %
 \author[1]{Michael Ryan Hunsaker, Ph.D.}
@@ -103,7 +131,7 @@ To address these challenges, I propose a decision making a flowchart called a \t
 The \textit{Mainstreaming Decision Tree} is a useful tool for self-contained special education classroom teachers to identify candidate students that will benefit from a less restrictive classroom environment. The \textit{Mainstreaming Pipeline} formally assists teachers of identified students to transition them into those less restrictive placements. What makes these processes unique is that, unlike the earlier work on transenvironmental programming that focused primarily on transitioning students from the resource classroom into the general education classroom, the present pipelines were designed to transition students in special classroom placements into the general education environment, both with and without the assistance of part time special education/Resource services. 
 
 The manuscript details the development of these tools and implementation of the \textit{Mainstreaming Decision Tree} and \textit{Mainstreaming Pipeline} to guide students out of self-contained special education and into general education placements.
-
+\section{Experiment 1 - Application of Transenvironmental Programming Methods}
 \section{Methods}
 \subsection{Development of a Mainstream Decision Tree}
 The primary motivation for the development of a \textit{Mainstreaming Decision Tree} is the idea that access to the general education curriculum is legal right of every student, regardless classification and placement as a special education student \parencite{hocutt1996effectiveness,johnson2005key,conway1988mainstreaming}. Although this need is universally accepted, it is often a difficult proposition to transition students out of self-contained special education classrooms and into general education classroom full time. This can be for reasons of teacher or parent bias \parencite{skiba2008achieving,marden2013criteria, smith2006classroom, praisner2003attitudes} or the difficulties in specifically developing a process by which to undertake this type of a difficult transition \parencite{cauley2006developing,fuchs1994classroom, kalaci2007students}.
@@ -531,7 +559,7 @@ One 1\textsuperscript{st} student successfully transitioned from a self-containe
 Std A & OHI & \textbf{60}-76 & \textbf{NA} & 78 & \textbf{63} & \textbf{18} & \textbf{39} & \textbf{NA} & \textbf{NA} & \textbf{\textit{SUCCESSFUL}}\\
 Std B & ED & 83-100 & 90 & 102 & 88 & 116 & 108 & 92 & \textbf{86} & \textbf{\textit{SUCCESSFUL}}\\
 Std C & AU & 67-78 & 101 & 72 & 84 & 75 & 87 & 90 & \textbf{72} & \textbf{\textit{SUCCESSFUL}}\\
-Std D & AU & 85 & 71-86 & 86 & 87 & 97 & 87 & 83 & \textbf{\textgreater70} & \textbf{\textit{SUCCESSFUL}}\\
+Std D & AU & 85 & 71 & 86 & 87 & 97 & 87 & 83 & \textbf{\textgreater70} & \textbf{\textit{SUCCESSFUL}}\\
 Std E & AU & 84-106 & 116 & 92 & \textbf{56} & 91 & 77 & 79 & \textless70 & \textbf{\textit{SUCCESSFUL}}\\
 Std F & AU & 83-94 & 95 & 85 & 98 & 84 & 86 & 74 & \textbf{74} & \textbf{\textit{SUCCESSFUL}}\\
 Std G & AU & 65-86 & 99 & \textbf{NA} & \textbf{NA} & \textbf{NA} & \textbf{NA} & \textbf{NA} & \textless70 & Poor Attention\textsuperscript{1}\\
@@ -827,7 +855,279 @@ An additional benefit of the \textit{Mainstreaming Decision Tree} was that it wa
 
 Based upon the current results, the pilot implementation of the \textit{Mainstreaming Pipeline} was successful in that between 40-50\% of the identified candidate students were able to make a transition from a highly restrictive classroom placement (self-contained special education classes) to a much less restrictive placement, that was general education with part time special education services. This means that these students went from receiving 6.5 hours (390 minutes) of special education services to receiving between 30-90 minutes of special education services daily. An additional 10\% were able to access a less restrictive self-contained unit placement 
 
-The implications of this pipeline are clear. For the cascading system of special education service provision to work, efforts need to be made to challenge students and offer the opportunity for students to move toward less restrictive placements. This \textit{Mainstreaming Decision Tree}, \textit{Behavioral Mainstreaming Decision Tree}, and \textit{Mainstreaming Pipeline} are two tools that may facilitate such a transition. 
+The implications of this pipeline are clear. For the cascading system of special education service provision to work, efforts need to be made to challenge students and offer the opportunity for students to move toward less restrictive placements. This \textit{Mainstreaming Decision Tree}, \textit{Behavioral Mainstreaming Decision Tree}, and \textit{Mainstreaming Pipeline} are two tools that may facilitate such a transition.
+
+\null\newpage
+
+\section{Experiment 2 - Computational Analysis of Transenvironmental Programming Methods}
+\section{Methods}
+\subsection{Manual Selection of Mainstreaming LRE}
+Using the Mainstream Decision Tree and raw data (raw values rather than categorical values), student allocation was determined for each student manually and annotated in a spreadsheet with the rest of the data from the above step using the \textit{Mainstreaming Decision Tree}. These data were later used to evaluate the efficacy of the numerical analyses. See method for manual selection and mainstreaming pipeline in (\textbf{REF to Part 1}).
+
+\subsection{Data Analysis and Development of a Support Vector Machine to Assist in Special Education Student Mainstreaming Allocation}
+\subsection{Data Preprocessing}
+Data were collected from all students in academic self-contained classroom settings.  student's most recent special education re-evaluation. The following data were extracted: Adaptive Function, Full Scale IQ (FSIQ), SocioEmotional data, WJ-IIINU data for academics (Basic Reading Skills, Reading Comprehension, Math Reasoning, Math Calculation, Written Language) and Curriculum Based Measures (CBM-Math and ELA/Reading). See Table~\ref{tab1} for items extracted from special education files.
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Begin Table 6
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\begin{table}[htbp!]
+	\centering
+	\caption{Continuous to Categorical Value Mapping}
+	\label{tab6}
+	\begin{tabular}{ccc}
+		\hline \\
+		Measure & Value Definitions & Value Range\\
+		\hline \\
+		Adaptive & SS 0-59 = 0,SS \textgreater60 = 1 & [0,1]\\
+		FSIQ & SS 0-70 = 0, SS 70-100 = 1, SS \textgreater100 = 2 & [0,0.5,1]\\
+		SocioEmotional & T 0-70 = 0, T\textgreater70 = 1 & [0,1]\\
+		WJ-III NU & SS 0-70 \& RPI 0-18 = 0, SS 70-100 \& RPI 18-34 = 1, SS\textgreater100 = 2 & [0,.33,.67,1]\\
+		CBM & \textless30\%ile = 0, textgreater30\%ile = 1 &  [0,1]\\
+		\hline
+	\end{tabular}
+\end{table}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% End Table 6
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+These values were converted into categorical variables based on the school district rubric for classification as specific learning disability (SLD). The categorical variables are presented in Table~\ref{tab6}.
+
+\subsubsection{Regression Tree Analysis}
+To determine whether or not the Mainstreaming Decision Tree could be supported by data, Recursive Partitioning and Regression Trees (rpart) analyses were performed. These methods split the data into 2 groups initially based on the type of data that creates the most statistically reliable split among groups. This process is repeated across all resulting groups until the algorithm can find no reliable way to split the groups further.
+
+This analysis was performed with the \textit{rpart} library in the R statistical computing package. This analysis was performed 2 times, first with the academic data included (mean scores across WJIII-NU as well as mean scores across CBM), and once with academic information withheld.
+
+Once the \textit{rpart} code was executed, the resulting tree-based visualizations were saved to file and remained unaltered. A deliberate choice was made to not cut the trees or post process them for the sake of clarity. 
+
+The R code for the condition of no academic information was:
+\begin{lstlisting}[language=R]
+>library(rpart)
+>library(rpart.plot)
+>fit<-rpart(Outcome~Adaptive+FSIQ+SocioEmotional,data=na.omit(merged_data), method="class",parms=list(prior=c(.3,.3,.4)),cost=c(3,1,1), control=rpart.control(minsplit=1,minbucket=1,cp=-1))
+>rpart.plot(fit,type=0,extra=100,box.palette="auto", branch.lty=1, shadow.col="gray", nn=TRUE, under=TRUE,tweak=.75,main="Decision Tree (Academic Testing Absent)")
+\end{lstlisting}
+
+The \textit{rpart} code for the condition of academic information present and collapsed into WJ-IIINU and CBM means :
+\begin{lstlisting}[language=R]
+>library(rpart)
+>library(rpart.plot)
+>fit<-rpart(Outcome~Adaptive+FSIQ+WJIII+CBM+SocioEmotional,data=na.omit(OHdata), method="class",parms=list(prior=c(.3,.3,.4)),cost=c(3,1,2,2,1),control=rpart.control(minsplit=1, minbucket=1,cp=-1, mincriterion=.5))
+>rpart.plot(fit,type=0,extra=100,box.palette="auto", branch.lty=1, shadow.col="gray", nn=TRUE, under=TRUE,tweak=.75,main="Decision Tree (Academic Testing Present)")
+\end{lstlisting}
+
+\subsubsection{Unsupervised Hierarchal Clustering}
+
+This analysis was performed with the textit{gplots} library in the R statistical computing package. This analysis was performed 3 times, first once with each of the 2 schools independently and again with the 2 schools' data combined. The results of these analyses were heatmaps that showed similarities among students as well as similarities among factors.
+
+Once the \textit{heatmap.2} code was executed, the resulting hierarchical clustering-based visualizations were saved to file and remained unaltered. A deliberate choice was made to not cut the heatmaps or post process them for the sake of clarity. 
+
+The \textit{heatmap.2} code for a combination of the four schools (8 classrooms):
+\begin{lstlisting}[language=R]
+>library(gplots)
+>library(RColorBrewer)
+>RawData<-rbind(School1, School2, School3, School4) # Combine all 4 school's data
+>OverallClusterData<-subset(merged_data, select=c(FSIQ,Basic_Reading_Skills,Reading_Comp,Math_Calc,Math_Reasoning,Written_Lang,Adaptive,SocioEmotional, CBM_Math, CBM_Reading)) #Subset data
+>OverallHeatmapData<-as.matrix(OverallClusterData) # Convert data frame to a matrix. Heatmap.2 requires a data matrix
+>OverallHeatmapData<-na.omit(OverallHeatmapData) # Remove all NA from the data
+>Colorpallete<-colorRampPalette(c("#e66101","#fdb863","#b2abd2","#4e3c99"))(n=256) # Selection of a color-blind appropriate color scheme using RColorBrewer
+>heatmap.2(OverallHeatmapData, main="Combined Data", col=Colorpallete,scale="none",rowsep=1:200, colsep=1:10, sepcol="white",sepwidth=c(.015,.025),trace="none",labRow=merged_data$Name,margins=c(10,10),cexRow=.75,cexCol=1,keysize=2,lhei=c(3,10)) # Application of Ward's Unsupervised Hierarchal Clustering method
+\end{lstlisting}
+
+\subsubsection{SVM / Machine Learning Approach}
+
+In order to quantify the accuracy of the clustering approaches, a machine learning classification algorithm was employed. This method, called Support Vector Machines, is designed to identify an optimal separation among groups or classes of data.
+
+The algorithm was trained by using different numbers of data points (students) to train the algorithm and testing it with the rest of the datasets. This analysis confirms the correctness of the heatmaps as well as trains a computer to discriminate among the 3 classes of students, allowing for unknown students' data to be input and a classification be elucidated. Based on preliminary exploratory analyses, a linear kernel resulted in the most accurate sorting of students. Effort was taken to avoid over-fitting the data.
+
+K means cross validation was used as a training and evaluation metric for the Support Vector Machine. This means K students' data were used to test the system and the remaining data were used to train the classifier. K means cross validation with K=30, 20, 10, 5, and 3 were used to evaluate the efficacy of the algorithm.
+
+Specifically, the \textit{e1071} package was used to implement the support vector machine algorithm. To train the classifier the code was:
+
+For k=30 fold cross validation:
+\begin{lstlisting}[language=R]
+>library(e1071)
+>svm.fit<-svm(Outcome~Adaptive+FSIQ+WJIII+CBM+SocioEmotional,data=na.omit(merged_data),kernel="linear",cross=30,probability=TRUE)
+\end{lstlisting}
+
+For k=20 fold cross validation:
+\begin{lstlisting}[language=R]
+>library(e1071)
+>svm.fit<-svm(Outcome~Adaptive+FSIQ+WJIII+CBM+SocioEmotional,data=na.omit(merged_data),kernel="linear",cross=20,probability=TRUE)
+\end{lstlisting}
+
+For k=10 fold cross validation:
+\begin{lstlisting}[language=R]
+>library(e1071)
+>svm.fit<-svm(Outcome~Adaptive+FSIQ+WJIII+CBM+SocioEmotional,data=na.omit(merged_data),kernel="linear",cross=10,probability=TRUE)
+\end{lstlisting}
+
+For k=5 fold cross validation:
+\begin{lstlisting}[language=R]
+>library(e1071)
+>svm.fit<-svm(Outcome~Adaptive+FSIQ+WJIII+CBM+SocioEmotional,data=na.omit(merged_data),kernel="linear",cross=5,probability=TRUE)
+\end{lstlisting}
+
+For k=3 fold cross validation: 
+\begin{lstlisting}[language=R]
+>library(e1071)
+>svm.fit<-svm(Outcome~Adaptive+FSIQ+WJIII+CBM+SocioEmotional,data=na.omit(merged_data),kernel="linear",cross=3,probability=TRUE)
+\end{lstlisting}
+%
+\section{Results}
+\subsection{Cluster Analyses and Heatmaps}
+\subsubsection{Partition Maps  / Regression Trees}
+%
+As can be seen from the partition tree below, when academic testing is not available, the \textit{rpart} algorithm used Adaptive Function as the first split point, supporting the decision to use Adaptive Function as the first split in the Mainstreaming Decision Tree. SocioEmotional data then seems to be important for determining student placement, followed by FSIQ data.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Begin Figure 4
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\begin{figure*}[htp!]
+	\centering
+	\includegraphics[width=\textwidth]{RegressionTree_NOAcademics.png}
+	\caption[Mainstreaming Decision Tree]{\textit{           }}
+	\label{fig4}
+\end{figure*}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% End Figure 4
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+When academic information is included as means across the WJ-IIINU and CBM, CBM (indicating classroom performance) is the primary determining factor for success, followed by WJIII-NU and socioemotional function. FSIQ appears to only become involved when very low WJ-IIINU scores are present and there are some socioemotional difficulties.
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Begin Figure 5
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\begin{figure*}[htp!]
+	\centering
+	\includegraphics[width=\textwidth]{RegressionTree_NOAcademics.png}
+	\caption[Mainstreaming Decision Tree]{\textit{          }}
+	\label{fig5}
+\end{figure*}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% End Figure 5
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+When academic information is included and all academic measures provided separately, a much more complicated picture appears. It appears that CBM math measures are most reliable for the initial split, followed by SocioEmotional data. Reading comprehension appears to be the most reliable indicator separating final general education placement relative to other factors. In separating inclusion from mainstreaming endpoints, it appears Basic Reading Skills are paramount. These data suggest that mathematics knowledge is critical, and after that Reading Comprehension. In the presence of poor CBM math scores, them math Reasoning becomes critical and  
+
+
+\subsubsection{Hierarchal Cluster Analyses and Heatmaps}
+
+The data presented in the heatmap in Figure ~\ref{fig3} that there was a 90\%+ correct classification of students designated for mainstreaming or inclusion. Interestingly, one can also see the Cognitive factors were separated from the academic factors, and CBM measurements were included as cognitive, rather than academic factors. 
+
+These data all support the use of the Mainstreaming Decision Tree by reaching similar conclusions as to student allocation or classification as the Mainstreaming Decision Tree using a converging method, 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Begin Figure 6
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\begin{figure*}[htp!]
+	\centering
+	\includegraphics[width=\textwidth,height=\textheight]{Heatmap_Overall.png}
+	\caption[Overall Predictive Results of Decision Algorithm]{\textit{           }}
+	\label{fig6}
+\end{figure*}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% End Figure 6
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+\subsubsection{Machine Learning Algorithm and Classification}
+
+Note in Table~\ref{tab4} that the classifier mis-classified 1 General Education student as Mainstreaming and 0 as inclusion. 3 inclusion students were mis-classified as needing mainstreaming. 3 Mainstreaming students were misclassified as General Education and 2 were misclassified as requiring inclusion. These data are important because it means the algorithm is optimistic, erring on the side of moving the student to a less restrictive environment rather than favoring more restrictive environments. Also, these data by and large support the classroom decisions undertaken this past year, which was to favor moving students into less restrictive environments when they were approaching "ready", rather than waiting. 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Begin Table 7
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\begin{table}[tbp!]
+	\centering
+	\caption{Continuous to Categorical Value Mapping}
+	\label{tab7}
+	\begin{tabular}{ccccc}
+		\hline \\
+		Manual Placement $ \Rightarrow $ & General Education & Inclusion & Mainstreaming & \% Correct Classification\\
+		\hline \\
+		SVM Prediction $ \Downarrow $ & & \\ \\
+		General Education & 12 & 0 & 1 & 93\% \\
+		Inclusion & 0 & 20 & 3 & 87\% \\
+		Mainstream & 3 & 2 & 20 & 80\% \\
+		\hline
+	\end{tabular}
+\end{table}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% End Table 7
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Begin Table 8
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\begin{table}[tbp!]
+	\centering
+	\caption{Support Vector Machine Accuracies}
+	\label{tab8}
+	\begin{tabular}{p{5cm}p{8cm}p{5cm}}
+		\hline \\
+		X-Fold CV & Single Run Accuracies (\%) & Mean Accuracy (\%)\\
+		\hline \\
+		30 fold CV & 100, 66.67, 100, 100, 100 \newline 66.67, 100, 100, 66.67, 100 \newline 100, 100, 100, 66.67, 100 \newline 66.67, 100, 100, 75, 66.67 \newline 66.67, 100, 100, 100, 66.67 \newline 33.33, 75, 33.33, 100, 100 & 85.71\\ \\
+		20 fold CV   & 75, 60, 80, 100, 80 \newline 80, 80, 80, 100, 80 \newline 75, 100, 60, 60, 100 \newline 100, 100, 100, 100, 80& 84.69 \\ \\
+		10 fold CV   & 88.89, 90, 100, 80, 70 \newline 66.67, 80, 90, 80, 90& 83.67 \\ \\
+		5 fold CV  & 78.95, 85, 89.47, 90, 85 & 85.71 \\ \\ 
+		3 fold CV   & 81.25, 87.88, 81.82 & 83.67 \\ \\
+		\multicolumn{2}{r}{Overall Mean} & 84.69 $ \pm $ 1.02\% SD \\ 
+		\hline
+	\end{tabular}
+\end{table}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% End Table 8
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+\section{Discussion}
+%
+%
+%
+%
+%
+
 
 %\clearpage
 \printbibliography
